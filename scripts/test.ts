@@ -1,7 +1,7 @@
 import { readFileSync } from "fs";
-import { PublicTransportManifest } from "./types";
+import { PublicTransportManifest } from "../src/types";
 
-import GetStations from "./GetStations.json";
+import GetStations from "../GetStations.json";
 
 let manifest: PublicTransportManifest = JSON.parse(readFileSync("./data/manifest.json").toString());
 
