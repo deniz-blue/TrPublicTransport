@@ -1,0 +1,193 @@
+{
+    "lines": [
+        {
+            "color": "#7c7358",
+            "id": "istanbul_f1",
+            "code": "F1",
+            "provider": "Metro İstanbul",
+            "icons": [
+                { "type": "svg" }
+            ]
+        },
+        {
+            "color": "#7c7358",
+            "id": "istanbul_f4",
+            "code": "F4",
+            "provider": "Metro İstanbul",
+            "icons": [
+                { "type": "svg" }
+            ]
+        },
+        {
+            "color": "#ee3124",
+            "id": "istanbul_m1a",
+            "code": "M1A",
+            "provider": "Metro İstanbul",
+            "icons": [
+                { "type": "svg" }
+            ]
+        },
+        {
+            "color": "#ee3124",
+            "id": "istanbul_m1b",
+            "code": "M1B",
+            "provider": "Metro İstanbul",
+            "icons": [
+                { "type": "svg" }
+            ]
+        },
+        {
+            "color": "#009944",
+            "id": "istanbul_m2",
+            "code": "M2",
+            "provider": "Metro İstanbul",
+            "icons": [
+                { "type": "svg" }
+            ]
+        },
+        {
+            "color": "#00a8e1",
+            "id": "istanbul_m3",
+            "code": "M3",
+            "provider": "Metro İstanbul",
+            "icons": [
+                { "type": "svg" }
+            ]
+        },
+        {
+            "color": "#e91e76",
+            "id": "istanbul_m4",
+            "code": "M4",
+            "provider": "Metro İstanbul",
+            "icons": [
+                { "type": "svg" }
+            ]
+        },
+        {
+            "color": "#683064",
+            "id": "istanbul_m5",
+            "code": "M5",
+            "provider": "Metro İstanbul",
+            "icons": [
+                { "type": "svg" }
+            ]
+        },
+        {
+            "color": "#caa977",
+            "id": "istanbul_m6",
+            "code": "M6",
+            "provider": "Metro İstanbul",
+            "icons": [
+                { "type": "svg" }
+            ]
+        },
+        {
+            "color": "#f89aba",
+            "id": "istanbul_m7",
+            "code": "M7",
+            "provider": "Metro İstanbul",
+            "icons": [
+                { "type": "svg" }
+            ]
+        },
+        {
+            "color": "#447abe",
+            "id": "istanbul_m8",
+            "code": "M8",
+            "provider": "Metro İstanbul",
+            "icons": [
+                { "type": "svg" }
+            ]
+        },
+        {
+            "color": "#f0e514",
+            "id": "istanbul_m9",
+            "code": "M9",
+            "provider": "Metro İstanbul",
+            "icons": [
+                { "type": "svg" }
+            ]
+        },
+        {
+            "color": "#004f7d",
+            "id": "istanbul_t1",
+            "code": "T1",
+            "provider": "Metro İstanbul",
+            "icons": [
+                { "type": "svg" }
+            ]
+        },
+        {
+            "color": "#a86528",
+            "id": "istanbul_t3",
+            "code": "T3",
+            "provider": "Metro İstanbul",
+            "icons": [
+                { "type": "svg" }
+            ]
+        },
+        {
+            "color": "#f47e46",
+            "id": "istanbul_t4",
+            "code": "T4",
+            "provider": "Metro İstanbul",
+            "icons": [
+                { "type": "svg" }
+            ]
+        },
+        {
+            "color": "#7c72b3",
+            "id": "istanbul_t5",
+            "code": "T5",
+            "provider": "Metro İstanbul",
+            "icons": [
+                { "type": "svg" }
+            ]
+        },
+        {
+            "color": "#68bcb0",
+            "id": "istanbul_tf1",
+            "code": "TF1",
+            "provider": "Metro İstanbul",
+            "icons": [
+                { "type": "svg" }
+            ]
+        },
+        {
+            "color": "#68bcb0",
+            "id": "istanbul_tf2",
+            "code": "TF2",
+            "provider": "Metro İstanbul",
+            "icons": [
+                { "type": "svg" }
+            ]
+        },
+        {
+            "color": "#63666b",
+            "id": "istanbul_b1",
+            "code": "B1",
+            "provider": "TCDD",
+            "icons": [
+                { "type": "svg" }
+            ]
+        },
+        {
+            "color": "#e57b7b",
+            "id": "istanbul_t6",
+            "code": "T6",
+            "provider": "TCDD",
+            "icons": [
+                { "type": "svg" }
+            ]
+        },
+        {
+            "color": "",
+            "id": "istanbul_34",
+            "code": "34",
+            "provider": "İETT",
+            "icons": [
+                { "type": "svg" }
+            ]
+        }
+    ]
+}

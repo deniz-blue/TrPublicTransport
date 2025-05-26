@@ -1,0 +1,39 @@
+{
+    "lines": [
+        {
+            "id": "izmir_m1",
+            "code": "M1",
+            "icons": [
+                { "file": "/lines/M1.svg" }
+            ]
+        },
+        {
+            "id": "izmir_b",
+            "code": "B",
+            "icons": [
+                { "file": "/providers/Izban.svg" }
+            ]
+        },
+        {
+            "id": "izmir_t1",
+            "code": "T1",
+            "icons": [
+                { "file": "/providers/TramIzmir.svg" }
+            ]
+        },
+        {
+            "id": "izmir_t2",
+            "code": "T2",
+            "icons": [
+                { "file": "/providers/TramIzmir.svg" }
+            ]
+        },
+        {
+            "id": "izmir_t3",
+            "code": "T3",
+            "icons": [
+                { "file": "/providers/TramIzmir.svg" }
+            ]
+        }
+    ]
+}

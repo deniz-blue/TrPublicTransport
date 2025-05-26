@@ -1,0 +1,54 @@
+{
+    "lines": [
+        {
+            "id": "ankara_t1",
+            "code": "T1",
+            "provider": "EGO",
+            "icons": [
+                {
+                    "type": "svg"
+                }
+            ]
+        },
+        {
+            "id": "ankara_m",
+            "code": "M",
+            "provider": "EGO",
+            "icons": [
+                {
+                    "type": "svg"
+                }
+            ]
+        },
+        {
+            "id": "ankara_a1",
+            "code": "A1",
+            "provider": "EGO",
+            "icons": [
+                {
+                    "type": "svg"
+                }
+            ]
+        },
+        {
+            "id": "ankara_m4",
+            "code": "M4",
+            "provider": "EGO",
+            "icons": [
+                {
+                    "type": "svg"
+                }
+            ]
+        },
+        {
+            "id": "ankara_b1",
+            "code": "B1",
+            "provider": "TCDD",
+            "icons": [
+                {
+                    "type": "svg"
+                }
+            ]
+        }
+    ]
+}
