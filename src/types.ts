@@ -1,9 +1,8 @@
-export type PublicTransportManifest = {
-    [cityName: string]: PublicTransportCity;
+export type ManifestLinesJSON = {
+    lines: PublicTransportLine[];
 };
 
-export type PublicTransportCity = {
-    lines: PublicTransportLine[];
+export type ManifestStationsJSON = {
     stations: PublicTransportStation[];
     transfers: string[][];
 };
@@ -18,24 +17,14 @@ export type PublicTransportLine = {
     color?: string;
 };
 
-export type LineIcon = LineIconCircular | LineIconLogo;
-
-export type LineIconCircular = {
-    type: "circular";
-    radius: number;
-    text?: string;
-    color?: string;
-};
-
-export type LineIconLogo = {
-    type: "logo";
-    data: string;
-};
+export type LineIcon = {
+    type: "svg";
+} | { file: string };
 
 export type PublicTransportStation = {
     id: string;
     lineId: string;
     name: string;
-    next: string[];
-    prev: string[];
+    neighbours: string[];
+    coords?: { lat: number; lng: number };
 };

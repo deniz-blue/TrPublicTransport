@@ -1,3276 +1,3892 @@
 {
-    "stations": [
-        {
-            "id": "m5get6yr0jf",
-            "lineId": "istanbul_m2",
-            "name": "Yenikapı",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "k4l5bm6fc8r",
-            "lineId": "istanbul_m1a",
-            "name": "Yenikapı",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "1vcs2v8aluk",
-            "lineId": "istanbul_m1b",
-            "name": "Yenikapı",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "c2z06h1zgeg",
-            "lineId": "istanbul_b1",
-            "name": "Yenikapı",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "6avh4b0xjoc",
-            "lineId": "istanbul_t6",
-            "name": "Yenikapı",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "9tfj9nz9g1",
-            "lineId": "istanbul_m4",
-            "name": "Ayrılık Çeşmesi",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "ifjhhzztizp",
-            "lineId": "istanbul_b1",
-            "name": "Ayrılık Çeşmesi",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "1cjepo27nrvh",
-            "lineId": "istanbul_m1a",
-            "name": "Yenibosna",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "eyz60hivgw5",
-            "lineId": "istanbul_m9",
-            "name": "Yenibosna",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "0wtw2glmsye",
-            "lineId": "istanbul_34",
-            "name": "Yenibosna",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "h6oyz9dof95",
-            "lineId": "istanbul_m5",
-            "name": "Üsküdar",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "0z6lbnylds8",
-            "lineId": "istanbul_b1",
-            "name": "Üsküdar",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "stlhtmb462h",
-            "lineId": "istanbul_34",
-            "name": "Söğütlüçeşme",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "gs71bfm9tht",
-            "lineId": "istanbul_b1",
-            "name": "Söğütlüçeşme",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "8mbj3xqstzt",
-            "lineId": "istanbul_t1",
-            "name": "Sirkeci",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "s6nf8uaoens",
-            "lineId": "istanbul_b1",
-            "name": "Sirkeci",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "j8cvqjpy1ne",
-            "lineId": "istanbul_t6",
-            "name": "Sirkeci",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "iy75jldes6n",
-            "lineId": "istanbul_34",
-            "name": "Küçükçekmece",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "a28v5veaie",
-            "lineId": "istanbul_b1",
-            "name": "Küçükçekmece",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "seunqn6bsxh",
-            "lineId": "istanbul_b1",
-            "name": "Kazlıçeşme",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "uoent88yc8",
-            "lineId": "istanbul_t6",
-            "name": "Kazlıçeşme",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "4y682w3i5ea",
-            "lineId": "istanbul_m4",
-            "name": "Ünalan",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "v1tjzadrwmc",
-            "lineId": "istanbul_34",
-            "name": "Uzunçayır",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "5fqtp21dpw",
-            "lineId": "istanbul_m4",
-            "name": "Pegasus-Kozyatağı",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "ds3ha32i7",
-            "lineId": "istanbul_m8",
-            "name": "Kozyatağı",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "xo60sgqchv",
-            "lineId": "istanbul_m3",
-            "name": "Özgürlük Meydanı",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "nxgynyj1uc",
-            "lineId": "istanbul_b1",
-            "name": "Bakırköy",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "em5y4yjwre",
-            "lineId": "istanbul_m9",
-            "name": "Ataköy",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "7nppeyr7exu",
-            "lineId": "istanbul_b1",
-            "name": "Ataköy",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "mezdjud67s",
-            "lineId": "istanbul_m7",
-            "name": "Kağıthane",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "88vgnx79ujq",
-            "lineId": "istanbul_m7",
-            "name": "Alibeyköy",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "1mrnu8686q8",
-            "lineId": "istanbul_t5",
-            "name": "Alibeyköy Metro",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "czy93pxzp99",
-            "lineId": "istanbul_m2",
-            "name": "Şişli-Mecidiyeköy",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "qv19q3hk0p",
-            "lineId": "istanbul_m7",
-            "name": "Mecidiyeköy",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "cgloojgjvuu",
-            "lineId": "istanbul_34",
-            "name": "Mecidiyeköy",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "w26jwjodbqh",
-            "lineId": "istanbul_t4",
-            "name": "Vatan",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "fvyvmebwrgl",
-            "lineId": "istanbul_m1a",
-            "name": "Topkapı-Ulubatlı",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "ms18wogv2f",
-            "lineId": "istanbul_m1b",
-            "name": "Topkapı-Ulubatlı",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "ajjowzrie6q",
-            "lineId": "istanbul_t1",
-            "name": "Zeytinburnu",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "yjqs8mx6shs",
-            "lineId": "istanbul_m1a",
-            "name": "Zeytinburnu",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "fyoweki6ilu",
-            "lineId": "istanbul_34",
-            "name": "Zeytinburnu",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "l9ic6jkeaya",
-            "lineId": "istanbul_m1a",
-            "name": "Merter",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "dphogf084ic",
-            "lineId": "istanbul_34",
-            "name": "Merter",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "uej4cd81ku",
-            "lineId": "istanbul_m1a",
-            "name": "Bahçelievler",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "lqqcki0x6",
-            "lineId": "istanbul_34",
-            "name": "Bahçelievler",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "z99za5xyhs",
-            "lineId": "istanbul_m1a",
-            "name": "Bakırköy-İncirli",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "nvhlp3i4pxc",
-            "lineId": "istanbul_m3",
-            "name": "İncirli",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "o4tl6c6ouq",
-            "lineId": "istanbul_34",
-            "name": "İncirli",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "uw4csenzge",
-            "lineId": "istanbul_t1",
-            "name": "Topkapı",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "6rr5yb6sdi8",
-            "lineId": "istanbul_t4",
-            "name": "Topkapı",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "9xi33u6uh4g",
-            "lineId": "istanbul_m3",
-            "name": "Mahmutbey",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "84w5sj5oykm",
-            "lineId": "istanbul_m7",
-            "name": "Mahmutbey",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "kxgljf5kxl",
-            "lineId": "istanbul_m3",
-            "name": "İkitelli Sanayi",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "ztgz4evbuk",
-            "lineId": "istanbul_m9",
-            "name": "İkitelli Sanayi",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "5qyhd92qmyj",
-            "lineId": "istanbul_m2",
-            "name": "Seyrantepe",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "008pirb4q4eyr",
-            "lineId": "istanbul_m5",
-            "name": "Altunizade",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "yjqysnuw09",
-            "lineId": "istanbul_34",
-            "name": "Altunizade",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "n94uq67folj",
-            "lineId": "istanbul_m4",
-            "name": "Bostancı",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "lk4au06zoa",
-            "lineId": "istanbul_m8",
-            "name": "Bostancı",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "z0bw0ilq0nr",
-            "lineId": "istanbul_b1",
-            "name": "Bostancı",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "498avqh5xva",
-            "lineId": "istanbul_m5",
-            "name": "Dudullu",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "alxtmld93yk",
-            "lineId": "istanbul_m8",
-            "name": "Dudullu",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "x9cdjbacf7q",
-            "lineId": "istanbul_m2",
-            "name": "Gayrettepe",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "0h7ihe0dywv",
-            "lineId": "istanbul_34",
-            "name": "Zincirlikuyu",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "k0tol0v97yj",
-            "lineId": "istanbul_m3",
-            "name": "Kirazlı-Bağcılar",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "z8tadf0317",
-            "lineId": "istanbul_m1b",
-            "name": "Kirazlı-Bağcılar",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "u6ny4wmxyz",
-            "lineId": "istanbul_t1",
-            "name": "Cevizlibağ-AÖY",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "yuxpy53sc5",
-            "lineId": "istanbul_m1a",
-            "name": "Ataköy-Şirinevler",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "wr7w207aag",
-            "lineId": "istanbul_34",
-            "name": "Şirinevler",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "zrhw5ak1qm",
-            "lineId": "istanbul_t4",
-            "name": "Kiptaş-Venezia",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "0qc5wwpsi5ld",
-            "lineId": "istanbul_m7",
-            "name": "Karadeniz Mahallesi",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "blmlsgryv66",
-            "lineId": "istanbul_m1a",
-            "name": "Otogar",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "s7kjm2y546k",
-            "lineId": "istanbul_m1b",
-            "name": "Otogar",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "oqbx2ao8qi9",
-            "lineId": "istanbul_m1a",
-            "name": "Kocatepe",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "02587sdd9khm",
-            "lineId": "istanbul_m1b",
-            "name": "Kocatepe",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "ovw166vvv3j",
-            "lineId": "istanbul_t4",
-            "name": "Sağmalcılar",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "83r2ywvt6so",
-            "lineId": "istanbul_m1a",
-            "name": "Sağmalcılar",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "sja399ywoqc",
-            "lineId": "istanbul_m1b",
-            "name": "Sağmalcılar",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "fqaq3giervh",
-            "lineId": "istanbul_m1a",
-            "name": "Bayrampaşa-Maltepe",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "2qbag7k85gd",
-            "lineId": "istanbul_m1b",
-            "name": "Bayrampaşa-Maltepe",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "oiy4smgzsk",
-            "lineId": "istanbul_m1a",
-            "name": "Emniyet-Fatih",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "akr3ckl5dy7",
-            "lineId": "istanbul_m1b",
-            "name": "Emniyet-Fatih",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "irecq347bge",
-            "lineId": "istanbul_t1",
-            "name": "Yusufpaşa",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "jayri8jxv9",
-            "lineId": "istanbul_m1a",
-            "name": "Aksaray",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "apsvzl33w6s",
-            "lineId": "istanbul_m1b",
-            "name": "Aksaray",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "om0verb7w7o",
-            "lineId": "istanbul_m2",
-            "name": "Vezneciler-İstanbul Ü.",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "jcp72hwp9dj",
-            "lineId": "istanbul_t1",
-            "name": "Laleli-İstanbul Ü.",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "jguaz46s9f",
-            "lineId": "istanbul_t1",
-            "name": "Eminönü",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "2fautqbuqr1",
-            "lineId": "istanbul_t5",
-            "name": "Eminönü",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "qflblf50b09",
-            "lineId": "istanbul_m2",
-            "name": "Haliç",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "0eizd6oxcayj",
-            "lineId": "istanbul_t5",
-            "name": "Küçükpazar",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "k8e1jufzyh",
-            "lineId": "istanbul_t5",
-            "name": "Eyüpsultan Teleferik",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "7up5z3xn4ra",
-            "lineId": "istanbul_tf2",
-            "name": "Eyüp",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "kassnunexir",
-            "lineId": "istanbul_m2",
-            "name": "Levent",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "phiaynqw2b",
-            "lineId": "istanbul_m6",
-            "name": "Levent",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "9ori9vudfev",
-            "lineId": "istanbul_m6",
-            "name": "Boğaziçi Ü./Hisarüstü",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "q9zz1w69tbd",
-            "lineId": "istanbul_f4",
-            "name": "Boğaziçi Ü./Hisarüstü",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "thonbxzk3ai",
-            "lineId": "istanbul_m2",
-            "name": "Taksim",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "qolmaz6uo9",
-            "lineId": "istanbul_f1",
-            "name": "Taksim",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "iyzyxxvcb0d",
-            "lineId": "istanbul_t1",
-            "name": "Kabataş",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "pj61vvujg2",
-            "lineId": "istanbul_f1",
-            "name": "Kabataş",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "mir47s6g2h",
-            "lineId": "istanbul_m4",
-            "name": "Kadıköy",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "akuzl77yvy",
-            "lineId": "istanbul_m4",
-            "name": "Acıbadem",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "cdl2gq09jno",
-            "lineId": "istanbul_m4",
-            "name": "Göztepe",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "2ld0gxap8sw",
-            "lineId": "istanbul_m4",
-            "name": "Yenisahra",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "6jvi2b1gl29",
-            "lineId": "istanbul_m4",
-            "name": "Küçükyalı",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "8jblmdz2vtr",
-            "lineId": "istanbul_m4",
-            "name": "Maltepe",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "bijm066v9ws",
-            "lineId": "istanbul_m4",
-            "name": "Huzurevi",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "04rrnrgfjtse",
-            "lineId": "istanbul_m4",
-            "name": "Gülsuyu",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "6g76id1bag5",
-            "lineId": "istanbul_m4",
-            "name": "Esenkent",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "iw51bamufeo",
-            "lineId": "istanbul_m4",
-            "name": "Hastane-Adliye",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "1wq66u70zl3",
-            "lineId": "istanbul_m4",
-            "name": "Soğanlık",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "i0wc4eheps",
-            "lineId": "istanbul_m4",
-            "name": "Kartal",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "g4fhtwvvguf",
-            "lineId": "istanbul_m4",
-            "name": "Yakacık-Adnan Kahveci",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "53agw0c6eqa",
-            "lineId": "istanbul_m4",
-            "name": "Pendik",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "2x4cwrpbi2q",
-            "lineId": "istanbul_m4",
-            "name": "Tavşantepe",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "8ggkg4u3fsw",
-            "lineId": "istanbul_m2",
-            "name": "Şişhane",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "uaa5p2a9w6",
-            "lineId": "istanbul_m2",
-            "name": "Osmanbey",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "0wdl41f5ft3l",
-            "lineId": "istanbul_m2",
-            "name": "4.Levent",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "uiuru0guoh",
-            "lineId": "istanbul_m2",
-            "name": "Sanayi Mahallesi",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "s7xqucn43ko",
-            "lineId": "istanbul_m2",
-            "name": "İTÜ-Ayazağa",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "p37n6g2qfo9",
-            "lineId": "istanbul_m2",
-            "name": "Atatürk Oto Sanayi",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "l0p69xv3la",
-            "lineId": "istanbul_m2",
-            "name": "Darüşşafaka",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "7kq5v7sl1yf",
-            "lineId": "istanbul_m2",
-            "name": "Hacıosman",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "1n26nwz4ujt",
-            "lineId": "istanbul_m3",
-            "name": "Başakşehir-Metrokent",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "ntlihqnu7kc",
-            "lineId": "istanbul_m3",
-            "name": "Başak Konutları",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "xqn4qk4rr6",
-            "lineId": "istanbul_m3",
-            "name": "Siteler",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "t0q10alkj2",
-            "lineId": "istanbul_m3",
-            "name": "Turgut Özal",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "jurelzu5oxq",
-            "lineId": "istanbul_m3",
-            "name": "İSTOÇ",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "w6gufxczsbn",
-            "lineId": "istanbul_m3",
-            "name": "Yenimahalle",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "4dr6vz6jikx",
-            "lineId": "istanbul_m1b",
-            "name": "Bağcılar Meydan",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "dfqn83trn3m",
-            "lineId": "istanbul_m1b",
-            "name": "Üçyüzlü",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "3hgeg8lxoay",
-            "lineId": "istanbul_m1b",
-            "name": "Menderes",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "htom7n8nku6",
-            "lineId": "istanbul_m1b",
-            "name": "Esenler",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "kuk0hxoy2al",
-            "lineId": "istanbul_t1",
-            "name": "Bağcılar",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "hb35hy42r0h",
-            "lineId": "istanbul_t1",
-            "name": "Güneştepe",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "clmp86uo3p4",
-            "lineId": "istanbul_t1",
-            "name": "Yavuzselim",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "yov0v1um0i",
-            "lineId": "istanbul_t1",
-            "name": "Soğanlı",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "x70gu4lm7mk",
-            "lineId": "istanbul_t1",
-            "name": "Akıncılar",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "6j9pqpgb1eh",
-            "lineId": "istanbul_t1",
-            "name": "Güngören",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "nifjj60x3jd",
-            "lineId": "istanbul_t1",
-            "name": "Merter Tekstil Merkezi",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "i8kpcaktnvr",
-            "lineId": "istanbul_t1",
-            "name": "Mehmet Akif",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "723ug8xlvjj",
-            "lineId": "istanbul_t1",
-            "name": "Mithatpaşa",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "hf0nhisfexe",
-            "lineId": "istanbul_t1",
-            "name": "Seyitnizam-Akşemsettin",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "kf3n35lm4if",
-            "lineId": "istanbul_t1",
-            "name": "Merkezefendi",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "0fts48o8z0l",
-            "lineId": "istanbul_t1",
-            "name": "Pazartekke",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "k04guiu78r",
-            "lineId": "istanbul_t1",
-            "name": "Çapa-Şehremini",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "jzyy7cr04q",
-            "lineId": "istanbul_t1",
-            "name": "Fındıkzade",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "kfgncyfa6n",
-            "lineId": "istanbul_t1",
-            "name": "Haseki",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "rqrm3h8v7yo",
-            "lineId": "istanbul_t1",
-            "name": "Aksaray",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "rtvfdophy5",
-            "lineId": "istanbul_t1",
-            "name": "Beyazıt-Kapalıçarşı",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "s227e2ias2r",
-            "lineId": "istanbul_t1",
-            "name": "Çemberlitaş",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "v7rlezanl68",
-            "lineId": "istanbul_t1",
-            "name": "Sultanahmet",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "5zccm0a1skk",
-            "lineId": "istanbul_t1",
-            "name": "Gülhane",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "yl32s19r4hn",
-            "lineId": "istanbul_t1",
-            "name": "Karaköy",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "rg1yaemgu7",
-            "lineId": "istanbul_t1",
-            "name": "Tophane",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "3w54a9sosqq",
-            "lineId": "istanbul_t1",
-            "name": "Fındıklı-Mimar Sinan Ü.",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "cn92csv8lw8",
-            "lineId": "istanbul_t4",
-            "name": "Mescid-i Selam",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "lnd36tl97je",
-            "lineId": "istanbul_t4",
-            "name": "Cebeci",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "1ihytkh1zi4",
-            "lineId": "istanbul_t4",
-            "name": "Sultançiftliği",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "9r9oml04wxn",
-            "lineId": "istanbul_t4",
-            "name": "Yenimahalle",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "v7n96gow02",
-            "lineId": "istanbul_t4",
-            "name": "Hacı Şükrü",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "pmv20ehc0ve",
-            "lineId": "istanbul_t4",
-            "name": "50.Yıl-Baştabya",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "u99w65yrmv",
-            "lineId": "istanbul_t4",
-            "name": "Cumhuriyet Mahallesi",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "c0fycs8skjj",
-            "lineId": "istanbul_t4",
-            "name": "Karadeniz",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "zmcsr65bknm",
-            "lineId": "istanbul_t4",
-            "name": "Taşköprü",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "ee77tv98f2l",
-            "lineId": "istanbul_t4",
-            "name": "Ali Fuat Başgil",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "nxpgtji0klk",
-            "lineId": "istanbul_t4",
-            "name": "Bosna Çukurçeşme",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "23j8yo9cw3d",
-            "lineId": "istanbul_t4",
-            "name": "Uluyol Bereç",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "aaz18wz1o8j",
-            "lineId": "istanbul_t4",
-            "name": "Rami",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "jpdkobralja",
-            "lineId": "istanbul_t4",
-            "name": "Topçular",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "owzvnmrvryh",
-            "lineId": "istanbul_t4",
-            "name": "Demirkapı",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "gb9326ktg45",
-            "lineId": "istanbul_t4",
-            "name": "Şehitlik",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "wqq0lwf64d",
-            "lineId": "istanbul_t4",
-            "name": "Edirnekapı",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "ir7t7c9vohp",
-            "lineId": "istanbul_t4",
-            "name": "Fetihkapı",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "mj8brdhedks",
-            "lineId": "istanbul_m1a",
-            "name": "Atatürk Havalimanı",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "pkqcdez3nah",
-            "lineId": "istanbul_m1a",
-            "name": "DTM-İstanbul Fuar Merkezi",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "s6p96vps5jg",
-            "lineId": "istanbul_m1a",
-            "name": "Davutpaşa-YTÜ",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "l6zpo59l9i9",
-            "lineId": "istanbul_m1a",
-            "name": "Terazidere",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "0eamd840x8he",
-            "lineId": "istanbul_m5",
-            "name": "Fıstıkağacı",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "d9i2xpty9f9",
-            "lineId": "istanbul_m5",
-            "name": "Bağlarbaşı",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "n2hexov090f",
-            "lineId": "istanbul_m5",
-            "name": "Kısıklı",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "e9tjl9f8bb5",
-            "lineId": "istanbul_m5",
-            "name": "Bulgurlu",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "cfcdm4u8l0m",
-            "lineId": "istanbul_m5",
-            "name": "Ümraniye",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "c1vgvyob3lh",
-            "lineId": "istanbul_m5",
-            "name": "Çarşı",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "yb5onwesqel",
-            "lineId": "istanbul_m5",
-            "name": "Yamanevler",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "dh3vw2tiv0t",
-            "lineId": "istanbul_m5",
-            "name": "Çakmak",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "jn79kg14hei",
-            "lineId": "istanbul_m5",
-            "name": "Ihlamurkuyu",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "ajs5v2la4ms",
-            "lineId": "istanbul_m5",
-            "name": "Altınşehir",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "ov65l1pha4",
-            "lineId": "istanbul_m5",
-            "name": "İmam Hatip Lisesi",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "v9vy65t6lac",
-            "lineId": "istanbul_m5",
-            "name": "Necip Fazıl",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "zfkrnvzwif",
-            "lineId": "istanbul_m5",
-            "name": "Çekmeköy",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "ytoioxweujr",
-            "lineId": "istanbul_m6",
-            "name": "Nispetiye",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "9z8v1g4kgnp",
-            "lineId": "istanbul_m6",
-            "name": "Etiler",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "k99ltdog8j",
-            "lineId": "istanbul_m7",
-            "name": "Yıldız",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "j1cl9bkjpeb",
-            "lineId": "istanbul_m7",
-            "name": "Fulya",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "77klup0ddrv",
-            "lineId": "istanbul_m7",
-            "name": "Çağlayan",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "18ytoe2mvw1",
-            "lineId": "istanbul_m7",
-            "name": "Nurtepe",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "eh83d16k0t",
-            "lineId": "istanbul_m7",
-            "name": "Çırçır",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "3nnd4j17vqx",
-            "lineId": "istanbul_m7",
-            "name": "Veysel Karani-Akşemsettin",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "ypzy9lb56pq",
-            "lineId": "istanbul_m7",
-            "name": "Yeşilpınar",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "zdldv7iaka",
-            "lineId": "istanbul_m7",
-            "name": "Kazım Karabekir",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "31cqv5j8hc",
-            "lineId": "istanbul_m7",
-            "name": "Yenimahalle",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "giz5eye4uig",
-            "lineId": "istanbul_m7",
-            "name": "Tekstilkent-Giyimkent",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "wyoy4ptm4l",
-            "lineId": "istanbul_m7",
-            "name": "Oruç Reis",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "iyhvueomaaq",
-            "lineId": "istanbul_m7",
-            "name": "Göztepe Mahallesi",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "n2p27iruns",
-            "lineId": "istanbul_m8",
-            "name": "Emin Ali Paşa",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "27yox4sq2sv",
-            "lineId": "istanbul_m8",
-            "name": "Ayşekadın",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "rhdtw4zm4tp",
-            "lineId": "istanbul_m8",
-            "name": "Küçükbakkalköy",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "xdjxkkwobk9",
-            "lineId": "istanbul_m8",
-            "name": "İçerenköy",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "btocx32uuy",
-            "lineId": "istanbul_m8",
-            "name": "Kayışdağı",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "wsceelxzz3",
-            "lineId": "istanbul_m8",
-            "name": "Mevlana",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "dwobtrncb8g",
-            "lineId": "istanbul_m8",
-            "name": "İmes",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "2bdy7m61dxj",
-            "lineId": "istanbul_m8",
-            "name": "Modoko-Keyap",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "45c7zbm0r75",
-            "lineId": "istanbul_m8",
-            "name": "Huzur",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "uq3s6yujld",
-            "lineId": "istanbul_t5",
-            "name": "Cibali",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "19389ro8r76",
-            "lineId": "istanbul_t5",
-            "name": "Fener",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "woxklnwws2g",
-            "lineId": "istanbul_t5",
-            "name": "Balat",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "2yf35be1r8m",
-            "lineId": "istanbul_t5",
-            "name": "Ayvansaray",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "h1g80212ly5",
-            "lineId": "istanbul_t5",
-            "name": "Feshane",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "ip0oybfj9fi",
-            "lineId": "istanbul_t5",
-            "name": "Eyüpsultan Devlet Hastanesi",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "4e0wd7gta2w",
-            "lineId": "istanbul_t5",
-            "name": "Silahtarağa Mahallesi",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "rx9xb9ldtr",
-            "lineId": "istanbul_t5",
-            "name": "Üniversite",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "5olmgjiuqfr",
-            "lineId": "istanbul_t5",
-            "name": "Alibeyköy Merkez",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "34jy48rle1r",
-            "lineId": "istanbul_t5",
-            "name": "Alibeyköy Cep Otogarı",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "eimmt76ex59",
-            "lineId": "istanbul_t3",
-            "name": "İskele Cami",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "bx482yxvsxi",
-            "lineId": "istanbul_t3",
-            "name": "Çarşı",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "ruug2vybr6s",
-            "lineId": "istanbul_t3",
-            "name": "Altıyol",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "zquap4k5dx",
-            "lineId": "istanbul_t3",
-            "name": "Bahariye",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "34dwwx973p5",
-            "lineId": "istanbul_t3",
-            "name": "Kilise",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "amisgyeti7c",
-            "lineId": "istanbul_t3",
-            "name": "Moda İlkokulu",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "dhm2u46dsj7",
-            "lineId": "istanbul_t3",
-            "name": "Moda Caddesi",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "7p3noa6ida",
-            "lineId": "istanbul_t3",
-            "name": "Mühürdar",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "trrkkrb28fa",
-            "lineId": "istanbul_t3",
-            "name": "Damga Sokak",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "c7nie6gl24",
-            "lineId": "istanbul_t3",
-            "name": "Kadıköy İDO",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "0qlmdsd5t5w",
-            "lineId": "istanbul_tf1",
-            "name": "Maçka",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "d50l16oyawf",
-            "lineId": "istanbul_tf1",
-            "name": "Taşkışla",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "fiwaebo5c4w",
-            "lineId": "istanbul_tf2",
-            "name": "Piyer Loti",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "j6izicvvtam",
-            "lineId": "istanbul_m9",
-            "name": "Olimpiyat",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "dh0f3m7bccb",
-            "lineId": "istanbul_m9",
-            "name": "Ziya Gökalp Mahallesi",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "bnpblh2zsj",
-            "lineId": "istanbul_m9",
-            "name": "Masko",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "sythgvmbwxn",
-            "lineId": "istanbul_m9",
-            "name": "Bahariye",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "r46ll89xecm",
-            "lineId": "istanbul_t3",
-            "name": "Rızapaşa",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "7zml2pk948f",
-            "lineId": "istanbul_m4",
-            "name": "Fevzi Çakmak-Hastane",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "ord2dxcfp1",
-            "lineId": "istanbul_m4",
-            "name": "Yayalar-Şeyhli",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "guvlaf4pq0n",
-            "lineId": "istanbul_m4",
-            "name": "Kurtköy",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "0pacbcwqboap",
-            "lineId": "istanbul_m4",
-            "name": "Sabiha Gökçen Havalimanı",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "zrwo2xjv31i",
-            "lineId": "istanbul_f4",
-            "name": "Aşiyan",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "dv0wk34sdrs",
-            "lineId": "istanbul_m8",
-            "name": "Parseller",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "uhjsz1ncj4n",
-            "lineId": "istanbul_m9",
-            "name": "Atatürk Mahallesi",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "547u7749vbb",
-            "lineId": "istanbul_m9",
-            "name": "Halkalı Caddesi",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "wc3ntj5zlfr",
-            "lineId": "istanbul_m9",
-            "name": "15 Temmuz",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "2xdce1bkia9",
-            "lineId": "istanbul_m9",
-            "name": "Mimar Sinan",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "sg4gu5nnc4",
-            "lineId": "istanbul_m9",
-            "name": "Doğu Sanayi",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "lexlclupmw",
-            "lineId": "istanbul_m9",
-            "name": "29 Ekim - Cumhuriyet",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "1ma49e9svhd",
-            "lineId": "istanbul_m9",
-            "name": "Çobançeşme",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "b95ginla55",
-            "lineId": "istanbul_m3",
-            "name": "Onurkent",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "lyr5xfek0fj",
-            "lineId": "istanbul_m3",
-            "name": "Şehir Hastanesi",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "1zkck6ivbcu",
-            "lineId": "istanbul_m3",
-            "name": "Toplu Konutlar",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "65188j3vytx",
-            "lineId": "istanbul_m3",
-            "name": "Kayaşehir Merkez",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "v63bl635fde",
-            "lineId": "istanbul_m5",
-            "name": "Meclis",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "nm07cah47a",
-            "lineId": "istanbul_m5",
-            "name": "Sarıgazi",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "be99pvn35u",
-            "lineId": "istanbul_m5",
-            "name": "Sancaktepe",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "qip561q2jrk",
-            "lineId": "istanbul_m5",
-            "name": "Samandıra Merkez",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "kg96i37owz",
-            "lineId": "istanbul_m3",
-            "name": "Molla Gürani",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "vie7jd0cyq",
-            "lineId": "istanbul_m3",
-            "name": "İlkyuva",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "pskd2cwnbuq",
-            "lineId": "istanbul_m3",
-            "name": "Haznedar",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "6okycyrvbb2",
-            "lineId": "istanbul_m3",
-            "name": "Bakırköy Sahil",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "3g49q7j0444",
-            "lineId": "istanbul_34",
-            "name": "Fikirtepe",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "z8lx4efxtz",
-            "lineId": "istanbul_34",
-            "name": "Acıbadem",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "hwu0w81j5wp",
-            "lineId": "istanbul_34",
-            "name": "Burhaniye",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "8qp4ckxuh89",
-            "lineId": "istanbul_34",
-            "name": "15 Temmuz Şehitler Köprüsü",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "eqt8xpatq4",
-            "lineId": "istanbul_34",
-            "name": "Çağlayan",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "hi64kjvudyj",
-            "lineId": "istanbul_34",
-            "name": "Okmeydanı Hastane",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "e3a4zupm3ls",
-            "lineId": "istanbul_34",
-            "name": "Darülaceze-Perpa",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "xatfxqifpu",
-            "lineId": "istanbul_34",
-            "name": "Okmeydanı",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "1gpoydtu0bo",
-            "lineId": "istanbul_34",
-            "name": "Halıcıoğlu",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "syzkeabzckc",
-            "lineId": "istanbul_34",
-            "name": "Ayvansaray-Eyüpsultan",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "vwpujkss7l",
-            "lineId": "istanbul_34",
-            "name": "Edirnekapı",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "3lzo93y46t",
-            "lineId": "istanbul_34",
-            "name": "Bayrampaşa-Maltepe/Koç Üniviversitesi Hastanesi",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "53g5q67358o",
-            "lineId": "istanbul_34",
-            "name": "Topkapı-Şehit Mustafa Cambaz",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "zhp5llps9n",
-            "lineId": "istanbul_34",
-            "name": "Cevizlibağ",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "iq80sxk5f2i",
-            "lineId": "istanbul_34",
-            "name": "Sefaköy",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "xodzwf24xn7",
-            "lineId": "istanbul_34",
-            "name": "Beşyol",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "k42okuypox",
-            "lineId": "istanbul_34",
-            "name": "Florya",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "d3351s98b2k",
-            "lineId": "istanbul_34",
-            "name": "Cennet Mahallesi",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "gcz71zqav15",
-            "lineId": "istanbul_34",
-            "name": "İBB Sosyal Tesisleri",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "ah1rtk1xyw6",
-            "lineId": "istanbul_34",
-            "name": "Şükrübey",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "kruqalnhyv9",
-            "lineId": "istanbul_34",
-            "name": "Avcılar Merkez-Üniversite Kampüsü",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "0jfrl0296huu",
-            "lineId": "istanbul_34",
-            "name": "Cihangir-Üniversite Mahallesi",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "lk4z3z1uny9",
-            "lineId": "istanbul_34",
-            "name": "Mustafa Kemal Paşa",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "liumtogt3m",
-            "lineId": "istanbul_34",
-            "name": "Saadetdere Mahallesi",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "4cy0fnu5ljy",
-            "lineId": "istanbul_34",
-            "name": "Haramidere Sanayi",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "omugk64jfk9",
-            "lineId": "istanbul_34",
-            "name": "Haramidere",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "4k7wyh3na7g",
-            "lineId": "istanbul_34",
-            "name": "Güzelyurt",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "h1nrzwqcf7p",
-            "lineId": "istanbul_34",
-            "name": "Beylikdüzü",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "4p6fdxi3904",
-            "lineId": "istanbul_34",
-            "name": "Beylikdüzü Belediye",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "9yl7zfnnrdo",
-            "lineId": "istanbul_34",
-            "name": "Cumhuriyet Mahallesi",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "qee3sbf1frr",
-            "lineId": "istanbul_34",
-            "name": "Beykent",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "63g6cc4bh42",
-            "lineId": "istanbul_34",
-            "name": "Beylikdüzü Sondurak",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "6ls04592r5",
-            "lineId": "istanbul_b1",
-            "name": "Halkalı",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "kz8wa1o9n4j",
-            "lineId": "istanbul_b1",
-            "name": "Mustafa Kemal",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "vg13edig07p",
-            "lineId": "istanbul_b1",
-            "name": "Florya",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "mmkth3zl7ap",
-            "lineId": "istanbul_b1",
-            "name": "Florya Akvaryum",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "8ygdlbf7ngr",
-            "lineId": "istanbul_b1",
-            "name": "Yeşilköy",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "ljj6mfzi8c",
-            "lineId": "istanbul_b1",
-            "name": "Yeşilyurt",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "du9xhx5drmg",
-            "lineId": "istanbul_b1",
-            "name": "Yenimahalle",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "zu2pcdhwu5b",
-            "lineId": "istanbul_b1",
-            "name": "Zeytinburnu - Fişekhane",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "4lhbmvkjqn",
-            "lineId": "istanbul_b1",
-            "name": "Feneryolu",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "3ekfbcfhn5h",
-            "lineId": "istanbul_b1",
-            "name": "Göztepe",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "dczmr9gr2f8",
-            "lineId": "istanbul_b1",
-            "name": "Erenköy",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "akaehlb9wlp",
-            "lineId": "istanbul_b1",
-            "name": "Suadiye",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "zbllx5p4p4",
-            "lineId": "istanbul_b1",
-            "name": "Küçükyalı",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "rcdkdpkcp5q",
-            "lineId": "istanbul_b1",
-            "name": "İdealtepe",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "qgw76dgvmi9",
-            "lineId": "istanbul_b1",
-            "name": "Süreyya Plajı",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "iafkna5a9c9",
-            "lineId": "istanbul_b1",
-            "name": "Maltepe",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "vlwmhfbddtc",
-            "lineId": "istanbul_b1",
-            "name": "Cevizli",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "5teykfrykm",
-            "lineId": "istanbul_b1",
-            "name": "Atalar",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "45hzak53ovw",
-            "lineId": "istanbul_b1",
-            "name": "Başak",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "5na0cyhzjpk",
-            "lineId": "istanbul_b1",
-            "name": "Kartal",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "pkwhm2zvrh",
-            "lineId": "istanbul_b1",
-            "name": "Yunus",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "mmsrvslz5z",
-            "lineId": "istanbul_b1",
-            "name": "Pendik",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "lw9pjpt9lz",
-            "lineId": "istanbul_b1",
-            "name": "Kaynarca",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "ovbw1e8in8",
-            "lineId": "istanbul_b1",
-            "name": "Tersane",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "urozxqim5r9",
-            "lineId": "istanbul_b1",
-            "name": "Güzelyalı",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "fzb6dalms3",
-            "lineId": "istanbul_b1",
-            "name": "Aydıntepe",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "506gvpilhlm",
-            "lineId": "istanbul_b1",
-            "name": "İçmeler",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "1klsm0bees4",
-            "lineId": "istanbul_b1",
-            "name": "Tuzla",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "8dgn9rf4qvp",
-            "lineId": "istanbul_b1",
-            "name": "Çayırova",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "o8q7tb4t9hd",
-            "lineId": "istanbul_b1",
-            "name": "GTÜ - Fatih",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "fhg9mziytk",
-            "lineId": "istanbul_b1",
-            "name": "Osmangazi",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "9hcqv8muq8q",
-            "lineId": "istanbul_b1",
-            "name": "Darıca",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "7vflq1kdlrt",
-            "lineId": "istanbul_b1",
-            "name": "Gebze",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "wluoyviewz",
-            "lineId": "istanbul_t6",
-            "name": "Cankurtaran",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "2z4k56mzj2z",
-            "lineId": "istanbul_t6",
-            "name": "Kumkapı",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "j928ypxstvn",
-            "lineId": "istanbul_t6",
-            "name": "Cerrahpaşa",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "lf6gnqk7guf",
-            "lineId": "istanbul_t6",
-            "name": "Kocamustafapaşa",
-            "next": [],
-            "prev": []
-        },
-        {
-            "id": "zr6goyvg0vc",
-            "lineId": "istanbul_t6",
-            "name": "Yedikule",
-            "next": [],
-            "prev": []
-        }
+  "stations": [
+    {
+      "id": "m5get6yr0jf",
+      "lineId": "istanbul_m2",
+      "name": "Yenikapı",
+      "neighbours": [
+        "om0verb7w7o"
+      ],
+      "coords": {
+        "lat": 41.0055971704,
+        "lng": 28.9513306172
+      }
+    },
+    {
+      "id": "k4l5bm6fc8r",
+      "lineId": "istanbul_m1a",
+      "name": "Yenikapı",
+      "neighbours": [
+        "jayri8jxv9",
+        "blmlsgryv66"
+      ],
+      "coords": {
+        "lat": 41.004755,
+        "lng": 28.952549
+      }
+    },
+    {
+      "id": "1vcs2v8aluk",
+      "lineId": "istanbul_m1b",
+      "name": "Yenikapı",
+      "neighbours": [
+        "apsvzl33w6s",
+        "s7kjm2y546k"
+      ],
+      "coords": {
+        "lat": 41.004755,
+        "lng": 28.952549
+      }
+    },
+    {
+      "id": "c2z06h1zgeg",
+      "lineId": "istanbul_b1",
+      "name": "Yenikapı",
+      "neighbours": []
+    },
+    {
+      "id": "6avh4b0xjoc",
+      "lineId": "istanbul_t6",
+      "name": "Yenikapı",
+      "neighbours": []
+    },
+    {
+      "id": "9tfj9nz9g1",
+      "lineId": "istanbul_m4",
+      "name": "Ayrılık Çeşmesi",
+      "neighbours": [
+        "mir47s6g2h",
+        "akuzl77yvy"
+      ],
+      "coords": {
+        "lat": 41.00020434433358,
+        "lng": 29.030153258203203
+      }
+    },
+    {
+      "id": "ifjhhzztizp",
+      "lineId": "istanbul_b1",
+      "name": "Ayrılık Çeşmesi",
+      "neighbours": []
+    },
+    {
+      "id": "1cjepo27nrvh",
+      "lineId": "istanbul_m1a",
+      "name": "Yenibosna",
+      "neighbours": [
+        "pkqcdez3nah",
+        "yuxpy53sc5"
+      ],
+      "coords": {
+        "lat": 40.9893149835,
+        "lng": 28.8367043004
+      }
+    },
+    {
+      "id": "eyz60hivgw5",
+      "lineId": "istanbul_m9",
+      "name": "Yenibosna",
+      "neighbours": [
+        "1ma49e9svhd",
+        "em5y4yjwre"
+      ],
+      "coords": {
+        "lat": 40.989473,
+        "lng": 28.837963
+      }
+    },
+    {
+      "id": "0wtw2glmsye",
+      "lineId": "istanbul_34",
+      "name": "Yenibosna",
+      "neighbours": []
+    },
+    {
+      "id": "h6oyz9dof95",
+      "lineId": "istanbul_m5",
+      "name": "Üsküdar",
+      "neighbours": [
+        "0eamd840x8he"
+      ],
+      "coords": {
+        "lat": 41.025618259645256,
+        "lng": 29.015061927581854
+      }
+    },
+    {
+      "id": "0z6lbnylds8",
+      "lineId": "istanbul_b1",
+      "name": "Üsküdar",
+      "neighbours": []
+    },
+    {
+      "id": "stlhtmb462h",
+      "lineId": "istanbul_34",
+      "name": "Söğütlüçeşme",
+      "neighbours": []
+    },
+    {
+      "id": "gs71bfm9tht",
+      "lineId": "istanbul_b1",
+      "name": "Söğütlüçeşme",
+      "neighbours": []
+    },
+    {
+      "id": "8mbj3xqstzt",
+      "lineId": "istanbul_t1",
+      "name": "Sirkeci",
+      "neighbours": [
+        "5zccm0a1skk",
+        "jguaz46s9f"
+      ],
+      "coords": {
+        "lat": 41.0151806347,
+        "lng": 28.9758901555
+      }
+    },
+    {
+      "id": "s6nf8uaoens",
+      "lineId": "istanbul_b1",
+      "name": "Sirkeci",
+      "neighbours": []
+    },
+    {
+      "id": "j8cvqjpy1ne",
+      "lineId": "istanbul_t6",
+      "name": "Sirkeci",
+      "neighbours": []
+    },
+    {
+      "id": "iy75jldes6n",
+      "lineId": "istanbul_34",
+      "name": "Küçükçekmece",
+      "neighbours": []
+    },
+    {
+      "id": "a28v5veaie",
+      "lineId": "istanbul_b1",
+      "name": "Küçükçekmece",
+      "neighbours": []
+    },
+    {
+      "id": "seunqn6bsxh",
+      "lineId": "istanbul_b1",
+      "name": "Kazlıçeşme",
+      "neighbours": []
+    },
+    {
+      "id": "uoent88yc8",
+      "lineId": "istanbul_t6",
+      "name": "Kazlıçeşme",
+      "neighbours": []
+    },
+    {
+      "id": "4y682w3i5ea",
+      "lineId": "istanbul_m4",
+      "name": "Ünalan",
+      "neighbours": [
+        "akuzl77yvy",
+        "cdl2gq09jno"
+      ],
+      "coords": {
+        "lat": 40.997886812202864,
+        "lng": 29.061370874184917
+      }
+    },
+    {
+      "id": "v1tjzadrwmc",
+      "lineId": "istanbul_34",
+      "name": "Uzunçayır",
+      "neighbours": []
+    },
+    {
+      "id": "5fqtp21dpw",
+      "lineId": "istanbul_m4",
+      "name": "Pegasus-Kozyatağı",
+      "neighbours": [
+        "2ld0gxap8sw",
+        "n94uq67folj"
+      ],
+      "coords": {
+        "lat": 40.9748528607554,
+        "lng": 29.099330474424526
+      }
+    },
+    {
+      "id": "ds3ha32i7",
+      "lineId": "istanbul_m8",
+      "name": "Kozyatağı",
+      "neighbours": [
+        "27yox4sq2sv",
+        "rhdtw4zm4tp"
+      ],
+      "coords": {
+        "lat": 40.97524724462983,
+        "lng": 29.098809408749805
+      }
+    },
+    {
+      "id": "xo60sgqchv",
+      "lineId": "istanbul_m3",
+      "name": "Özgürlük Meydanı",
+      "neighbours": [
+        "nvhlp3i4pxc",
+        "6okycyrvbb2"
+      ],
+      "coords": {
+        "lat": 40.98184836284361,
+        "lng": 28.873888809703004
+      }
+    },
+    {
+      "id": "nxgynyj1uc",
+      "lineId": "istanbul_b1",
+      "name": "Bakırköy",
+      "neighbours": []
+    },
+    {
+      "id": "em5y4yjwre",
+      "lineId": "istanbul_m9",
+      "name": "Ataköy",
+      "neighbours": [
+        "eyz60hivgw5"
+      ],
+      "coords": {
+        "lat": 40.979916,
+        "lng": 28.856218
+      }
+    },
+    {
+      "id": "7nppeyr7exu",
+      "lineId": "istanbul_b1",
+      "name": "Ataköy",
+      "neighbours": []
+    },
+    {
+      "id": "mezdjud67s",
+      "lineId": "istanbul_m7",
+      "name": "Kağıthane",
+      "neighbours": [
+        "77klup0ddrv",
+        "18ytoe2mvw1"
+      ],
+      "coords": {
+        "lat": 41.0799698,
+        "lng": 28.9722495
+      }
+    },
+    {
+      "id": "88vgnx79ujq",
+      "lineId": "istanbul_m7",
+      "name": "Alibeyköy",
+      "neighbours": [
+        "18ytoe2mvw1",
+        "eh83d16k0t"
+      ],
+      "coords": {
+        "lat": 41.0791702,
+        "lng": 28.9493602
+      }
+    },
+    {
+      "id": "1mrnu8686q8",
+      "lineId": "istanbul_t5",
+      "name": "Alibeyköy Metro",
+      "neighbours": [
+        "5olmgjiuqfr",
+        "34jy48rle1r"
+      ],
+      "coords": {
+        "lat": 41.07848,
+        "lng": 28.949459
+      }
+    },
+    {
+      "id": "czy93pxzp99",
+      "lineId": "istanbul_m2",
+      "name": "Şişli-Mecidiyeköy",
+      "neighbours": [
+        "uaa5p2a9w6",
+        "x9cdjbacf7q"
+      ],
+      "coords": {
+        "lat": 41.0645069127,
+        "lng": 28.9926697578
+      }
+    },
+    {
+      "id": "qv19q3hk0p",
+      "lineId": "istanbul_m7",
+      "name": "Mecidiyeköy",
+      "neighbours": [
+        "j1cl9bkjpeb",
+        "77klup0ddrv"
+      ],
+      "coords": {
+        "lat": 41.0661411,
+        "lng": 28.9945802
+      }
+    },
+    {
+      "id": "cgloojgjvuu",
+      "lineId": "istanbul_34",
+      "name": "Mecidiyeköy",
+      "neighbours": []
+    },
+    {
+      "id": "w26jwjodbqh",
+      "lineId": "istanbul_t4",
+      "name": "Vatan",
+      "neighbours": [
+        "wqq0lwf64d",
+        "ir7t7c9vohp"
+      ],
+      "coords": {
+        "lat": 41.0256946675,
+        "lng": 28.9293559649
+      }
+    },
+    {
+      "id": "fvyvmebwrgl",
+      "lineId": "istanbul_m1a",
+      "name": "Topkapı-Ulubatlı",
+      "neighbours": [
+        "fqaq3giervh",
+        "oiy4smgzsk"
+      ],
+      "coords": {
+        "lat": 41.0240250582,
+        "lng": 28.9305034257
+      }
+    },
+    {
+      "id": "ms18wogv2f",
+      "lineId": "istanbul_m1b",
+      "name": "Topkapı-Ulubatlı",
+      "neighbours": [
+        "2qbag7k85gd",
+        "akr3ckl5dy7"
+      ],
+      "coords": {
+        "lat": 41.0240250582,
+        "lng": 28.9305034257
+      }
+    },
+    {
+      "id": "ajjowzrie6q",
+      "lineId": "istanbul_t1",
+      "name": "Zeytinburnu",
+      "neighbours": [
+        "i8kpcaktnvr",
+        "723ug8xlvjj"
+      ],
+      "coords": {
+        "lat": 41.0014853458,
+        "lng": 28.8902920022
+      }
+    },
+    {
+      "id": "yjqs8mx6shs",
+      "lineId": "istanbul_m1a",
+      "name": "Zeytinburnu",
+      "neighbours": [
+        "z99za5xyhs",
+        "l9ic6jkeaya"
+      ],
+      "coords": {
+        "lat": 41.0017008338,
+        "lng": 28.8896520683
+      }
+    },
+    {
+      "id": "fyoweki6ilu",
+      "lineId": "istanbul_34",
+      "name": "Zeytinburnu",
+      "neighbours": []
+    },
+    {
+      "id": "l9ic6jkeaya",
+      "lineId": "istanbul_m1a",
+      "name": "Merter",
+      "neighbours": [
+        "yjqs8mx6shs",
+        "s6p96vps5jg"
+      ],
+      "coords": {
+        "lat": 41.0076458753,
+        "lng": 28.8961771147
+      }
+    },
+    {
+      "id": "dphogf084ic",
+      "lineId": "istanbul_34",
+      "name": "Merter",
+      "neighbours": []
+    },
+    {
+      "id": "uej4cd81ku",
+      "lineId": "istanbul_m1a",
+      "name": "Bahçelievler",
+      "neighbours": [
+        "yuxpy53sc5",
+        "z99za5xyhs"
+      ],
+      "coords": {
+        "lat": 40.9953532384,
+        "lng": 28.8630661969
+      }
+    },
+    {
+      "id": "lqqcki0x6",
+      "lineId": "istanbul_34",
+      "name": "Bahçelievler",
+      "neighbours": []
+    },
+    {
+      "id": "z99za5xyhs",
+      "lineId": "istanbul_m1a",
+      "name": "Bakırköy-İncirli",
+      "neighbours": [
+        "uej4cd81ku",
+        "yjqs8mx6shs"
+      ],
+      "coords": {
+        "lat": 40.9966121333,
+        "lng": 28.8753997556
+      }
+    },
+    {
+      "id": "nvhlp3i4pxc",
+      "lineId": "istanbul_m3",
+      "name": "İncirli",
+      "neighbours": [
+        "pskd2cwnbuq",
+        "xo60sgqchv"
+      ],
+      "coords": {
+        "lat": 40.99749718083783,
+        "lng": 28.875149165334438
+      }
+    },
+    {
+      "id": "o4tl6c6ouq",
+      "lineId": "istanbul_34",
+      "name": "İncirli",
+      "neighbours": []
+    },
+    {
+      "id": "uw4csenzge",
+      "lineId": "istanbul_t1",
+      "name": "Topkapı",
+      "neighbours": [
+        "u6ny4wmxyz",
+        "0fts48o8z0l"
+      ],
+      "coords": {
+        "lat": 41.0192295429,
+        "lng": 28.9194470285
+      }
+    },
+    {
+      "id": "6rr5yb6sdi8",
+      "lineId": "istanbul_t4",
+      "name": "Topkapı",
+      "neighbours": [
+        "ir7t7c9vohp"
+      ],
+      "coords": {
+        "lat": 41.0192295429,
+        "lng": 28.9194470285
+      }
+    },
+    {
+      "id": "9xi33u6uh4g",
+      "lineId": "istanbul_m3",
+      "name": "Mahmutbey",
+      "neighbours": [
+        "jurelzu5oxq",
+        "w6gufxczsbn"
+      ],
+      "coords": {
+        "lat": 41.0548448863,
+        "lng": 28.8305244805
+      }
+    },
+    {
+      "id": "84w5sj5oykm",
+      "lineId": "istanbul_m7",
+      "name": "Mahmutbey",
+      "neighbours": [
+        "iyhvueomaaq"
+      ],
+      "coords": {
+        "lat": 41.054312,
+        "lng": 28.830612
+      }
+    },
+    {
+      "id": "kxgljf5kxl",
+      "lineId": "istanbul_m3",
+      "name": "İkitelli Sanayi",
+      "neighbours": [
+        "t0q10alkj2",
+        "jurelzu5oxq"
+      ],
+      "coords": {
+        "lat": 41.0724333906,
+        "lng": 28.8023285305
+      }
+    },
+    {
+      "id": "ztgz4evbuk",
+      "lineId": "istanbul_m9",
+      "name": "İkitelli Sanayi",
+      "neighbours": [
+        "dh0f3m7bccb",
+        "bnpblh2zsj"
+      ],
+      "coords": {
+        "lat": 41.071592188454204,
+        "lng": 28.80359489619547
+      }
+    },
+    {
+      "id": "5qyhd92qmyj",
+      "lineId": "istanbul_m2",
+      "name": "Seyrantepe",
+      "neighbours": [
+        "uiuru0guoh",
+        "s7xqucn43ko"
+      ],
+      "coords": {
+        "lat": 41.100906,
+        "lng": 28.997775
+      }
+    },
+    {
+      "id": "008pirb4q4eyr",
+      "lineId": "istanbul_m5",
+      "name": "Altunizade",
+      "neighbours": [
+        "d9i2xpty9f9",
+        "n2hexov090f"
+      ],
+      "coords": {
+        "lat": 41.02256927368503,
+        "lng": 29.045163182699945
+      }
+    },
+    {
+      "id": "yjqysnuw09",
+      "lineId": "istanbul_34",
+      "name": "Altunizade",
+      "neighbours": []
+    },
+    {
+      "id": "n94uq67folj",
+      "lineId": "istanbul_m4",
+      "name": "Bostancı",
+      "neighbours": [
+        "5fqtp21dpw",
+        "6jvi2b1gl29"
+      ],
+      "coords": {
+        "lat": 40.96483843441404,
+        "lng": 29.104601888800143
+      }
+    },
+    {
+      "id": "lk4au06zoa",
+      "lineId": "istanbul_m8",
+      "name": "Bostancı",
+      "neighbours": [
+        "n2p27iruns"
+      ],
+      "coords": {
+        "lat": 40.95128998347687,
+        "lng": 29.097243057130374
+      }
+    },
+    {
+      "id": "z0bw0ilq0nr",
+      "lineId": "istanbul_b1",
+      "name": "Bostancı",
+      "neighbours": []
+    },
+    {
+      "id": "498avqh5xva",
+      "lineId": "istanbul_m5",
+      "name": "Dudullu",
+      "neighbours": [
+        "ov65l1pha4",
+        "v9vy65t6lac"
+      ],
+      "coords": {
+        "lat": 41.01544045560607,
+        "lng": 29.16244635386456
+      }
+    },
+    {
+      "id": "alxtmld93yk",
+      "lineId": "istanbul_m8",
+      "name": "Dudullu",
+      "neighbours": [
+        "2bdy7m61dxj",
+        "45c7zbm0r75"
+      ],
+      "coords": {
+        "lat": 41.01556997960766,
+        "lng": 29.162499998040506
+      }
+    },
+    {
+      "id": "x9cdjbacf7q",
+      "lineId": "istanbul_m2",
+      "name": "Gayrettepe",
+      "neighbours": [
+        "czy93pxzp99",
+        "kassnunexir"
+      ],
+      "coords": {
+        "lat": 41.0690012375,
+        "lng": 29.0109200808
+      }
+    },
+    {
+      "id": "0h7ihe0dywv",
+      "lineId": "istanbul_34",
+      "name": "Zincirlikuyu",
+      "neighbours": []
+    },
+    {
+      "id": "k0tol0v97yj",
+      "lineId": "istanbul_m3",
+      "name": "Kirazlı-Bağcılar",
+      "neighbours": [
+        "w6gufxczsbn",
+        "b95ginla55"
+      ],
+      "coords": {
+        "lat": 41.0322960516,
+        "lng": 28.8427689525
+      }
+    },
+    {
+      "id": "z8tadf0317",
+      "lineId": "istanbul_m1b",
+      "name": "Kirazlı-Bağcılar",
+      "neighbours": [
+        "4dr6vz6jikx"
+      ],
+      "coords": {
+        "lat": 41.0322960516,
+        "lng": 28.8427689525
+      }
+    },
+    {
+      "id": "u6ny4wmxyz",
+      "lineId": "istanbul_t1",
+      "name": "Cevizlibağ-AÖY",
+      "neighbours": [
+        "kf3n35lm4if",
+        "uw4csenzge"
+      ],
+      "coords": {
+        "lat": 41.0159557944,
+        "lng": 28.9115738934
+      }
+    },
+    {
+      "id": "yuxpy53sc5",
+      "lineId": "istanbul_m1a",
+      "name": "Ataköy-Şirinevler",
+      "neighbours": [
+        "1cjepo27nrvh",
+        "uej4cd81ku"
+      ],
+      "coords": {
+        "lat": 40.9913500997,
+        "lng": 28.846082309
+      }
+    },
+    {
+      "id": "wr7w207aag",
+      "lineId": "istanbul_34",
+      "name": "Şirinevler",
+      "neighbours": []
+    },
+    {
+      "id": "zrhw5ak1qm",
+      "lineId": "istanbul_t4",
+      "name": "Kiptaş-Venezia",
+      "neighbours": [
+        "u99w65yrmv",
+        "c0fycs8skjj"
+      ],
+      "coords": {
+        "lat": 41.07985707357942,
+        "lng": 28.875993057122308
+      }
+    },
+    {
+      "id": "0qc5wwpsi5ld",
+      "lineId": "istanbul_m7",
+      "name": "Karadeniz Mahallesi",
+      "neighbours": [
+        "31cqv5j8hc",
+        "giz5eye4uig"
+      ],
+      "coords": {
+        "lat": 41.0815994,
+        "lng": 28.8754204
+      }
+    },
+    {
+      "id": "blmlsgryv66",
+      "lineId": "istanbul_m1a",
+      "name": "Otogar",
+      "neighbours": [
+        "k4l5bm6fc8r"
+      ],
+      "coords": {
+        "lat": 41.0401441651,
+        "lng": 28.8945600984
+      }
+    },
+    {
+      "id": "s7kjm2y546k",
+      "lineId": "istanbul_m1b",
+      "name": "Otogar",
+      "neighbours": [
+        "1vcs2v8aluk"
+      ],
+      "coords": {
+        "lat": 41.0401441651,
+        "lng": 28.8945600984
+      }
+    },
+    {
+      "id": "oqbx2ao8qi9",
+      "lineId": "istanbul_m1a",
+      "name": "Kocatepe",
+      "neighbours": [
+        "l6zpo59l9i9",
+        "83r2ywvt6so"
+      ],
+      "coords": {
+        "lat": 41.0484928183,
+        "lng": 28.8953862076
+      }
+    },
+    {
+      "id": "02587sdd9khm",
+      "lineId": "istanbul_m1b",
+      "name": "Kocatepe",
+      "neighbours": [
+        "htom7n8nku6",
+        "sja399ywoqc"
+      ],
+      "coords": {
+        "lat": 41.0484928183,
+        "lng": 28.8953862076
+      }
+    },
+    {
+      "id": "ovw166vvv3j",
+      "lineId": "istanbul_t4",
+      "name": "Sağmalcılar",
+      "neighbours": [
+        "nxpgtji0klk",
+        "23j8yo9cw3d"
+      ],
+      "coords": {
+        "lat": 41.0572818121,
+        "lng": 28.9069357644
+      }
+    },
+    {
+      "id": "83r2ywvt6so",
+      "lineId": "istanbul_m1a",
+      "name": "Sağmalcılar",
+      "neighbours": [
+        "oqbx2ao8qi9",
+        "fqaq3giervh"
+      ],
+      "coords": {
+        "lat": 41.0408544497,
+        "lng": 28.9072352877
+      }
+    },
+    {
+      "id": "sja399ywoqc",
+      "lineId": "istanbul_m1b",
+      "name": "Sağmalcılar",
+      "neighbours": [
+        "02587sdd9khm",
+        "2qbag7k85gd"
+      ],
+      "coords": {
+        "lat": 41.0408544497,
+        "lng": 28.9072352877
+      }
+    },
+    {
+      "id": "fqaq3giervh",
+      "lineId": "istanbul_m1a",
+      "name": "Bayrampaşa-Maltepe",
+      "neighbours": [
+        "83r2ywvt6so",
+        "fvyvmebwrgl"
+      ],
+      "coords": {
+        "lat": 41.0340978572,
+        "lng": 28.920238689
+      }
+    },
+    {
+      "id": "2qbag7k85gd",
+      "lineId": "istanbul_m1b",
+      "name": "Bayrampaşa-Maltepe",
+      "neighbours": [
+        "sja399ywoqc",
+        "ms18wogv2f"
+      ],
+      "coords": {
+        "lat": 41.0340978572,
+        "lng": 28.920238689
+      }
+    },
+    {
+      "id": "oiy4smgzsk",
+      "lineId": "istanbul_m1a",
+      "name": "Emniyet-Fatih",
+      "neighbours": [
+        "fvyvmebwrgl",
+        "jayri8jxv9"
+      ],
+      "coords": {
+        "lat": 41.0176115439,
+        "lng": 28.9395963977
+      }
+    },
+    {
+      "id": "akr3ckl5dy7",
+      "lineId": "istanbul_m1b",
+      "name": "Emniyet-Fatih",
+      "neighbours": [
+        "ms18wogv2f",
+        "apsvzl33w6s"
+      ],
+      "coords": {
+        "lat": 41.0176115439,
+        "lng": 28.9395963977
+      }
+    },
+    {
+      "id": "irecq347bge",
+      "lineId": "istanbul_t1",
+      "name": "Yusufpaşa",
+      "neighbours": [
+        "kfgncyfa6n",
+        "rqrm3h8v7yo"
+      ],
+      "coords": {
+        "lat": 41.0099988102,
+        "lng": 28.9471169908
+      }
+    },
+    {
+      "id": "jayri8jxv9",
+      "lineId": "istanbul_m1a",
+      "name": "Aksaray",
+      "neighbours": [
+        "oiy4smgzsk",
+        "k4l5bm6fc8r"
+      ],
+      "coords": {
+        "lat": 41.0120281897,
+        "lng": 28.9480625565
+      }
+    },
+    {
+      "id": "apsvzl33w6s",
+      "lineId": "istanbul_m1b",
+      "name": "Aksaray",
+      "neighbours": [
+        "akr3ckl5dy7",
+        "1vcs2v8aluk"
+      ],
+      "coords": {
+        "lat": 41.0120281897,
+        "lng": 28.9480625565
+      }
+    },
+    {
+      "id": "om0verb7w7o",
+      "lineId": "istanbul_m2",
+      "name": "Vezneciler-İstanbul Ü.",
+      "neighbours": [
+        "m5get6yr0jf",
+        "qflblf50b09"
+      ],
+      "coords": {
+        "lat": 41.011475,
+        "lng": 28.960705
+      }
+    },
+    {
+      "id": "jcp72hwp9dj",
+      "lineId": "istanbul_t1",
+      "name": "Laleli-İstanbul Ü.",
+      "neighbours": [
+        "rqrm3h8v7yo",
+        "rtvfdophy5"
+      ],
+      "coords": {
+        "lat": 41.0095870715,
+        "lng": 28.9597865368
+      }
+    },
+    {
+      "id": "jguaz46s9f",
+      "lineId": "istanbul_t1",
+      "name": "Eminönü",
+      "neighbours": [
+        "8mbj3xqstzt",
+        "yl32s19r4hn"
+      ],
+      "coords": {
+        "lat": 41.0174770208,
+        "lng": 28.9732097738
+      }
+    },
+    {
+      "id": "2fautqbuqr1",
+      "lineId": "istanbul_t5",
+      "name": "Eminönü",
+      "neighbours": [
+        "0eizd6oxcayj"
+      ],
+      "coords": {
+        "lat": 41.01833251289325,
+        "lng": 28.970220633282402
+      }
+    },
+    {
+      "id": "qflblf50b09",
+      "lineId": "istanbul_m2",
+      "name": "Haliç",
+      "neighbours": [
+        "om0verb7w7o",
+        "8ggkg4u3fsw"
+      ],
+      "coords": {
+        "lat": 41.0224366195,
+        "lng": 28.9664183343
+      }
+    },
+    {
+      "id": "0eizd6oxcayj",
+      "lineId": "istanbul_t5",
+      "name": "Küçükpazar",
+      "neighbours": [
+        "2fautqbuqr1",
+        "uq3s6yujld"
+      ],
+      "coords": {
+        "lat": 41.0211067072648,
+        "lng": 28.96307565267346
+      }
+    },
+    {
+      "id": "k8e1jufzyh",
+      "lineId": "istanbul_t5",
+      "name": "Eyüpsultan Teleferik",
+      "neighbours": [
+        "h1g80212ly5",
+        "ip0oybfj9fi"
+      ],
+      "coords": {
+        "lat": 41.050482,
+        "lng": 28.935202
+      }
+    },
+    {
+      "id": "7up5z3xn4ra",
+      "lineId": "istanbul_tf2",
+      "name": "Eyüp",
+      "neighbours": [
+        "fiwaebo5c4w"
+      ],
+      "coords": {
+        "lat": 41.0505432043,
+        "lng": 28.9339131846
+      }
+    },
+    {
+      "id": "kassnunexir",
+      "lineId": "istanbul_m2",
+      "name": "Levent",
+      "neighbours": [
+        "x9cdjbacf7q",
+        "0wdl41f5ft3l"
+      ],
+      "coords": {
+        "lat": 41.0767734293,
+        "lng": 29.0136876237
+      }
+    },
+    {
+      "id": "phiaynqw2b",
+      "lineId": "istanbul_m6",
+      "name": "Levent",
+      "neighbours": [
+        "ytoioxweujr"
+      ],
+      "coords": {
+        "lat": 41.075888,
+        "lng": 29.014142
+      }
+    },
+    {
+      "id": "9ori9vudfev",
+      "lineId": "istanbul_m6",
+      "name": "Boğaziçi Ü./Hisarüstü",
+      "neighbours": [
+        "9z8v1g4kgnp"
+      ],
+      "coords": {
+        "lat": 41.085278,
+        "lng": 29.045519
+      }
+    },
+    {
+      "id": "q9zz1w69tbd",
+      "lineId": "istanbul_f4",
+      "name": "Boğaziçi Ü./Hisarüstü",
+      "neighbours": [
+        "zrwo2xjv31i"
+      ],
+      "coords": {
+        "lat": 41.08486726284434,
+        "lng": 29.051021003065568
+      }
+    },
+    {
+      "id": "thonbxzk3ai",
+      "lineId": "istanbul_m2",
+      "name": "Taksim",
+      "neighbours": [
+        "8ggkg4u3fsw",
+        "uaa5p2a9w6"
+      ],
+      "coords": {
+        "lat": 41.038496,
+        "lng": 28.985783
+      }
+    },
+    {
+      "id": "qolmaz6uo9",
+      "lineId": "istanbul_f1",
+      "name": "Taksim",
+      "neighbours": [
+        "pj61vvujg2"
+      ],
+      "coords": {
+        "lat": 41.0366994647,
+        "lng": 28.9868190279
+      }
+    },
+    {
+      "id": "iyzyxxvcb0d",
+      "lineId": "istanbul_t1",
+      "name": "Kabataş",
+      "neighbours": [
+        "3w54a9sosqq"
+      ],
+      "coords": {
+        "lat": 41.034195,
+        "lng": 28.992712
+      }
+    },
+    {
+      "id": "pj61vvujg2",
+      "lineId": "istanbul_f1",
+      "name": "Kabataş",
+      "neighbours": [
+        "qolmaz6uo9"
+      ],
+      "coords": {
+        "lat": 41.0338745666,
+        "lng": 28.9922350785
+      }
+    },
+    {
+      "id": "mir47s6g2h",
+      "lineId": "istanbul_m4",
+      "name": "Kadıköy",
+      "neighbours": [
+        "9tfj9nz9g1"
+      ],
+      "coords": {
+        "lat": 40.990663811475805,
+        "lng": 29.02200761747134
+      }
+    },
+    {
+      "id": "akuzl77yvy",
+      "lineId": "istanbul_m4",
+      "name": "Acıbadem",
+      "neighbours": [
+        "9tfj9nz9g1",
+        "4y682w3i5ea"
+      ],
+      "coords": {
+        "lat": 41.002331976173814,
+        "lng": 29.044498290084867
+      }
+    },
+    {
+      "id": "cdl2gq09jno",
+      "lineId": "istanbul_m4",
+      "name": "Göztepe",
+      "neighbours": [
+        "4y682w3i5ea",
+        "2ld0gxap8sw"
+      ],
+      "coords": {
+        "lat": 40.9939284023244,
+        "lng": 29.070446236116393
+      }
+    },
+    {
+      "id": "2ld0gxap8sw",
+      "lineId": "istanbul_m4",
+      "name": "Yenisahra",
+      "neighbours": [
+        "cdl2gq09jno",
+        "5fqtp21dpw"
+      ],
+      "coords": {
+        "lat": 40.984973265772204,
+        "lng": 29.090125340335963
+      }
+    },
+    {
+      "id": "6jvi2b1gl29",
+      "lineId": "istanbul_m4",
+      "name": "Küçükyalı",
+      "neighbours": [
+        "n94uq67folj",
+        "8jblmdz2vtr"
+      ],
+      "coords": {
+        "lat": 40.94848177811069,
+        "lng": 29.123705678871918
+      }
+    },
+    {
+      "id": "8jblmdz2vtr",
+      "lineId": "istanbul_m4",
+      "name": "Maltepe",
+      "neighbours": [
+        "6jvi2b1gl29",
+        "bijm066v9ws"
+      ],
+      "coords": {
+        "lat": 40.93649417481334,
+        "lng": 29.13681462729192
+      }
+    },
+    {
+      "id": "bijm066v9ws",
+      "lineId": "istanbul_m4",
+      "name": "Huzurevi",
+      "neighbours": [
+        "8jblmdz2vtr",
+        "04rrnrgfjtse"
+      ],
+      "coords": {
+        "lat": 40.92996421985499,
+        "lng": 29.1469453905599
+      }
+    },
+    {
+      "id": "04rrnrgfjtse",
+      "lineId": "istanbul_m4",
+      "name": "Gülsuyu",
+      "neighbours": [
+        "bijm066v9ws",
+        "6g76id1bag5"
+      ],
+      "coords": {
+        "lat": 40.92389300760361,
+        "lng": 29.156546529079005
+      }
+    },
+    {
+      "id": "6g76id1bag5",
+      "lineId": "istanbul_m4",
+      "name": "Esenkent",
+      "neighbours": [
+        "04rrnrgfjtse",
+        "iw51bamufeo"
+      ],
+      "coords": {
+        "lat": 40.920594425063584,
+        "lng": 29.166297696250616
+      }
+    },
+    {
+      "id": "iw51bamufeo",
+      "lineId": "istanbul_m4",
+      "name": "Hastane-Adliye",
+      "neighbours": [
+        "6g76id1bag5",
+        "1wq66u70zl3"
+      ],
+      "coords": {
+        "lat": 40.916312335081564,
+        "lng": 29.178430843993343
+      }
+    },
+    {
+      "id": "1wq66u70zl3",
+      "lineId": "istanbul_m4",
+      "name": "Soğanlık",
+      "neighbours": [
+        "iw51bamufeo",
+        "i0wc4eheps"
+      ],
+      "coords": {
+        "lat": 40.912789206970004,
+        "lng": 29.192839855288547
+      }
+    },
+    {
+      "id": "i0wc4eheps",
+      "lineId": "istanbul_m4",
+      "name": "Kartal",
+      "neighbours": [
+        "1wq66u70zl3",
+        "g4fhtwvvguf"
+      ],
+      "coords": {
+        "lat": 40.90681782551962,
+        "lng": 29.211026353862238
+      }
+    },
+    {
+      "id": "g4fhtwvvguf",
+      "lineId": "istanbul_m4",
+      "name": "Yakacık-Adnan Kahveci",
+      "neighbours": [
+        "i0wc4eheps",
+        "53agw0c6eqa"
+      ],
+      "coords": {
+        "lat": 40.896729838850625,
+        "lng": 29.226960280320945
+      }
+    },
+    {
+      "id": "53agw0c6eqa",
+      "lineId": "istanbul_m4",
+      "name": "Pendik",
+      "neighbours": [
+        "g4fhtwvvguf",
+        "2x4cwrpbi2q"
+      ],
+      "coords": {
+        "lat": 40.888385865460556,
+        "lng": 29.23816910887322
+      }
+    },
+    {
+      "id": "2x4cwrpbi2q",
+      "lineId": "istanbul_m4",
+      "name": "Tavşantepe",
+      "neighbours": [
+        "53agw0c6eqa",
+        "7zml2pk948f"
+      ],
+      "coords": {
+        "lat": 40.88225595122738,
+        "lng": 29.248573155917992
+      }
+    },
+    {
+      "id": "8ggkg4u3fsw",
+      "lineId": "istanbul_m2",
+      "name": "Şişhane",
+      "neighbours": [
+        "qflblf50b09",
+        "thonbxzk3ai"
+      ],
+      "coords": {
+        "lat": 41.028298,
+        "lng": 28.97285
+      }
+    },
+    {
+      "id": "uaa5p2a9w6",
+      "lineId": "istanbul_m2",
+      "name": "Osmanbey",
+      "neighbours": [
+        "thonbxzk3ai",
+        "czy93pxzp99"
+      ],
+      "coords": {
+        "lat": 41.052955,
+        "lng": 28.987375
+      }
+    },
+    {
+      "id": "0wdl41f5ft3l",
+      "lineId": "istanbul_m2",
+      "name": "4.Levent",
+      "neighbours": [
+        "kassnunexir",
+        "uiuru0guoh"
+      ],
+      "coords": {
+        "lat": 41.0860080659,
+        "lng": 29.0070897722
+      }
+    },
+    {
+      "id": "uiuru0guoh",
+      "lineId": "istanbul_m2",
+      "name": "Sanayi Mahallesi",
+      "neighbours": [
+        "0wdl41f5ft3l",
+        "5qyhd92qmyj"
+      ],
+      "coords": {
+        "lat": 41.0943240181,
+        "lng": 29.0053380126
+      }
+    },
+    {
+      "id": "s7xqucn43ko",
+      "lineId": "istanbul_m2",
+      "name": "İTÜ-Ayazağa",
+      "neighbours": [
+        "5qyhd92qmyj",
+        "p37n6g2qfo9"
+      ],
+      "coords": {
+        "lat": 41.108094796,
+        "lng": 29.0207947235
+      }
+    },
+    {
+      "id": "p37n6g2qfo9",
+      "lineId": "istanbul_m2",
+      "name": "Atatürk Oto Sanayi",
+      "neighbours": [
+        "s7xqucn43ko",
+        "l0p69xv3la"
+      ],
+      "coords": {
+        "lat": 41.1182574386,
+        "lng": 29.0241897659
+      }
+    },
+    {
+      "id": "l0p69xv3la",
+      "lineId": "istanbul_m2",
+      "name": "Darüşşafaka",
+      "neighbours": [
+        "p37n6g2qfo9",
+        "7kq5v7sl1yf"
+      ],
+      "coords": {
+        "lat": 41.1295823098,
+        "lng": 29.0251244919
+      }
+    },
+    {
+      "id": "7kq5v7sl1yf",
+      "lineId": "istanbul_m2",
+      "name": "Hacıosman",
+      "neighbours": [
+        "l0p69xv3la"
+      ],
+      "coords": {
+        "lat": 41.1397745691,
+        "lng": 29.0304324362
+      }
+    },
+    {
+      "id": "1n26nwz4ujt",
+      "lineId": "istanbul_m3",
+      "name": "Başakşehir-Metrokent",
+      "neighbours": [
+        "ntlihqnu7kc"
+      ],
+      "coords": {
+        "lat": 41.1075899254,
+        "lng": 28.8014768347
+      }
+    },
+    {
+      "id": "ntlihqnu7kc",
+      "lineId": "istanbul_m3",
+      "name": "Başak Konutları",
+      "neighbours": [
+        "1n26nwz4ujt",
+        "xqn4qk4rr6"
+      ],
+      "coords": {
+        "lat": 41.0976705948,
+        "lng": 28.7912824671
+      }
+    },
+    {
+      "id": "xqn4qk4rr6",
+      "lineId": "istanbul_m3",
+      "name": "Siteler",
+      "neighbours": [
+        "ntlihqnu7kc",
+        "t0q10alkj2"
+      ],
+      "coords": {
+        "lat": 41.0882027223,
+        "lng": 28.7965104065
+      }
+    },
+    {
+      "id": "t0q10alkj2",
+      "lineId": "istanbul_m3",
+      "name": "Turgut Özal",
+      "neighbours": [
+        "xqn4qk4rr6",
+        "kxgljf5kxl"
+      ],
+      "coords": {
+        "lat": 41.0811852568,
+        "lng": 28.7974049311
+      }
+    },
+    {
+      "id": "jurelzu5oxq",
+      "lineId": "istanbul_m3",
+      "name": "İSTOÇ",
+      "neighbours": [
+        "kxgljf5kxl",
+        "9xi33u6uh4g"
+      ],
+      "coords": {
+        "lat": 41.0649996532,
+        "lng": 28.8259591715
+      }
+    },
+    {
+      "id": "w6gufxczsbn",
+      "lineId": "istanbul_m3",
+      "name": "Yenimahalle",
+      "neighbours": [
+        "9xi33u6uh4g",
+        "k0tol0v97yj"
+      ],
+      "coords": {
+        "lat": 41.0403571945,
+        "lng": 28.8359378583
+      }
+    },
+    {
+      "id": "4dr6vz6jikx",
+      "lineId": "istanbul_m1b",
+      "name": "Bağcılar Meydan",
+      "neighbours": [
+        "z8tadf0317",
+        "dfqn83trn3m"
+      ],
+      "coords": {
+        "lat": 41.0345164689,
+        "lng": 28.8561714937
+      }
+    },
+    {
+      "id": "dfqn83trn3m",
+      "lineId": "istanbul_m1b",
+      "name": "Üçyüzlü",
+      "neighbours": [
+        "4dr6vz6jikx",
+        "3hgeg8lxoay"
+      ],
+      "coords": {
+        "lat": 41.036721597,
+        "lng": 28.8706340581
+      }
+    },
+    {
+      "id": "3hgeg8lxoay",
+      "lineId": "istanbul_m1b",
+      "name": "Menderes",
+      "neighbours": [
+        "dfqn83trn3m",
+        "htom7n8nku6"
+      ],
+      "coords": {
+        "lat": 41.0427591002,
+        "lng": 28.8784878297
+      }
+    },
+    {
+      "id": "htom7n8nku6",
+      "lineId": "istanbul_m1b",
+      "name": "Esenler",
+      "neighbours": [
+        "3hgeg8lxoay",
+        "02587sdd9khm"
+      ],
+      "coords": {
+        "lat": 41.037682433,
+        "lng": 28.8884222852
+      }
+    },
+    {
+      "id": "kuk0hxoy2al",
+      "lineId": "istanbul_t1",
+      "name": "Bağcılar",
+      "neighbours": [
+        "hb35hy42r0h"
+      ],
+      "coords": {
+        "lat": 41.0330863118,
+        "lng": 28.860647218
+      }
+    },
+    {
+      "id": "hb35hy42r0h",
+      "lineId": "istanbul_t1",
+      "name": "Güneştepe",
+      "neighbours": [
+        "kuk0hxoy2al",
+        "clmp86uo3p4"
+      ],
+      "coords": {
+        "lat": 41.0289950489,
+        "lng": 28.860949736
+      }
+    },
+    {
+      "id": "clmp86uo3p4",
+      "lineId": "istanbul_t1",
+      "name": "Yavuzselim",
+      "neighbours": [
+        "hb35hy42r0h",
+        "yov0v1um0i"
+      ],
+      "coords": {
+        "lat": 41.0238219843,
+        "lng": 28.863651758
+      }
+    },
+    {
+      "id": "yov0v1um0i",
+      "lineId": "istanbul_t1",
+      "name": "Soğanlı",
+      "neighbours": [
+        "clmp86uo3p4",
+        "x70gu4lm7mk"
+      ],
+      "coords": {
+        "lat": 41.0209689646,
+        "lng": 28.8670797269
+      }
+    },
+    {
+      "id": "x70gu4lm7mk",
+      "lineId": "istanbul_t1",
+      "name": "Akıncılar",
+      "neighbours": [
+        "yov0v1um0i",
+        "6j9pqpgb1eh"
+      ],
+      "coords": {
+        "lat": 41.0173366346,
+        "lng": 28.8710305731
+      }
+    },
+    {
+      "id": "6j9pqpgb1eh",
+      "lineId": "istanbul_t1",
+      "name": "Güngören",
+      "neighbours": [
+        "x70gu4lm7mk",
+        "nifjj60x3jd"
+      ],
+      "coords": {
+        "lat": 41.0152104262,
+        "lng": 28.8775090458
+      }
+    },
+    {
+      "id": "nifjj60x3jd",
+      "lineId": "istanbul_t1",
+      "name": "Merter Tekstil Merkezi",
+      "neighbours": [
+        "6j9pqpgb1eh",
+        "i8kpcaktnvr"
+      ],
+      "coords": {
+        "lat": 41.0115593225,
+        "lng": 28.8807549715
+      }
+    },
+    {
+      "id": "i8kpcaktnvr",
+      "lineId": "istanbul_t1",
+      "name": "Mehmet Akif",
+      "neighbours": [
+        "nifjj60x3jd",
+        "ajjowzrie6q"
+      ],
+      "coords": {
+        "lat": 41.00580192,
+        "lng": 28.8816767755
+      }
+    },
+    {
+      "id": "723ug8xlvjj",
+      "lineId": "istanbul_t1",
+      "name": "Mithatpaşa",
+      "neighbours": [
+        "ajjowzrie6q",
+        "hf0nhisfexe"
+      ],
+      "coords": {
+        "lat": 41.003492938,
+        "lng": 28.9014562172
+      }
+    },
+    {
+      "id": "hf0nhisfexe",
+      "lineId": "istanbul_t1",
+      "name": "Seyitnizam-Akşemsettin",
+      "neighbours": [
+        "723ug8xlvjj",
+        "kf3n35lm4if"
+      ],
+      "coords": {
+        "lat": 41.0042150705,
+        "lng": 28.9075130061
+      }
+    },
+    {
+      "id": "kf3n35lm4if",
+      "lineId": "istanbul_t1",
+      "name": "Merkezefendi",
+      "neighbours": [
+        "hf0nhisfexe",
+        "u6ny4wmxyz"
+      ],
+      "coords": {
+        "lat": 41.0103922551,
+        "lng": 28.9095014291
+      }
+    },
+    {
+      "id": "0fts48o8z0l",
+      "lineId": "istanbul_t1",
+      "name": "Pazartekke",
+      "neighbours": [
+        "uw4csenzge",
+        "k04guiu78r"
+      ],
+      "coords": {
+        "lat": 41.0182661997,
+        "lng": 28.9271526286
+      }
+    },
+    {
+      "id": "k04guiu78r",
+      "lineId": "istanbul_t1",
+      "name": "Çapa-Şehremini",
+      "neighbours": [
+        "0fts48o8z0l",
+        "jzyy7cr04q"
+      ],
+      "coords": {
+        "lat": 41.0158833289,
+        "lng": 28.9320271861
+      }
+    },
+    {
+      "id": "jzyy7cr04q",
+      "lineId": "istanbul_t1",
+      "name": "Fındıkzade",
+      "neighbours": [
+        "k04guiu78r",
+        "kfgncyfa6n"
+      ],
+      "coords": {
+        "lat": 41.0117062059472,
+        "lng": 28.940655673320745
+      }
+    },
+    {
+      "id": "kfgncyfa6n",
+      "lineId": "istanbul_t1",
+      "name": "Haseki",
+      "neighbours": [
+        "jzyy7cr04q",
+        "irecq347bge"
+      ],
+      "coords": {
+        "lat": 41.0107098606,
+        "lng": 28.9442927851
+      }
+    },
+    {
+      "id": "rqrm3h8v7yo",
+      "lineId": "istanbul_t1",
+      "name": "Aksaray",
+      "neighbours": [
+        "irecq347bge",
+        "jcp72hwp9dj"
+      ],
+      "coords": {
+        "lat": 41.0095939384,
+        "lng": 28.9538598842
+      }
+    },
+    {
+      "id": "rtvfdophy5",
+      "lineId": "istanbul_t1",
+      "name": "Beyazıt-Kapalıçarşı",
+      "neighbours": [
+        "jcp72hwp9dj",
+        "s227e2ias2r"
+      ],
+      "coords": {
+        "lat": 41.0090689647,
+        "lng": 28.9666944396
+      }
+    },
+    {
+      "id": "s227e2ias2r",
+      "lineId": "istanbul_t1",
+      "name": "Çemberlitaş",
+      "neighbours": [
+        "rtvfdophy5",
+        "v7rlezanl68"
+      ],
+      "coords": {
+        "lat": 41.0084369787,
+        "lng": 28.9711260369
+      }
+    },
+    {
+      "id": "v7rlezanl68",
+      "lineId": "istanbul_t1",
+      "name": "Sultanahmet",
+      "neighbours": [
+        "s227e2ias2r",
+        "5zccm0a1skk"
+      ],
+      "coords": {
+        "lat": 41.0080890263,
+        "lng": 28.9755834871
+      }
+    },
+    {
+      "id": "5zccm0a1skk",
+      "lineId": "istanbul_t1",
+      "name": "Gülhane",
+      "neighbours": [
+        "v7rlezanl68",
+        "8mbj3xqstzt"
+      ],
+      "coords": {
+        "lat": 41.0121648083,
+        "lng": 28.978420569
+      }
+    },
+    {
+      "id": "yl32s19r4hn",
+      "lineId": "istanbul_t1",
+      "name": "Karaköy",
+      "neighbours": [
+        "jguaz46s9f",
+        "rg1yaemgu7"
+      ],
+      "coords": {
+        "lat": 41.0221165813,
+        "lng": 28.9746840227
+      }
+    },
+    {
+      "id": "rg1yaemgu7",
+      "lineId": "istanbul_t1",
+      "name": "Tophane",
+      "neighbours": [
+        "yl32s19r4hn",
+        "3w54a9sosqq"
+      ],
+      "coords": {
+        "lat": 41.026992487,
+        "lng": 28.9808626704
+      }
+    },
+    {
+      "id": "3w54a9sosqq",
+      "lineId": "istanbul_t1",
+      "name": "Fındıklı-Mimar Sinan Ü.",
+      "neighbours": [
+        "rg1yaemgu7",
+        "iyzyxxvcb0d"
+      ],
+      "coords": {
+        "lat": 41.0314551495,
+        "lng": 28.9894378694
+      }
+    },
+    {
+      "id": "cn92csv8lw8",
+      "lineId": "istanbul_t4",
+      "name": "Mescid-i Selam",
+      "neighbours": [
+        "lnd36tl97je"
+      ],
+      "coords": {
+        "lat": 41.116218,
+        "lng": 28.851229
+      }
+    },
+    {
+      "id": "lnd36tl97je",
+      "lineId": "istanbul_t4",
+      "name": "Cebeci",
+      "neighbours": [
+        "cn92csv8lw8",
+        "1ihytkh1zi4"
+      ],
+      "coords": {
+        "lat": 41.1119217418,
+        "lng": 28.8578071487
+      }
+    },
+    {
+      "id": "1ihytkh1zi4",
+      "lineId": "istanbul_t4",
+      "name": "Sultançiftliği",
+      "neighbours": [
+        "lnd36tl97je",
+        "9r9oml04wxn"
+      ],
+      "coords": {
+        "lat": 41.1061320011,
+        "lng": 28.8606445832
+      }
+    },
+    {
+      "id": "9r9oml04wxn",
+      "lineId": "istanbul_t4",
+      "name": "Yenimahalle",
+      "neighbours": [
+        "1ihytkh1zi4",
+        "v7n96gow02"
+      ],
+      "coords": {
+        "lat": 41.0998289018,
+        "lng": 28.8629734333
+      }
+    },
+    {
+      "id": "v7n96gow02",
+      "lineId": "istanbul_t4",
+      "name": "Hacı Şükrü",
+      "neighbours": [
+        "9r9oml04wxn",
+        "pmv20ehc0ve"
+      ],
+      "coords": {
+        "lat": 41.0929087651,
+        "lng": 28.8640033599
+      }
+    },
+    {
+      "id": "pmv20ehc0ve",
+      "lineId": "istanbul_t4",
+      "name": "50.Yıl-Baştabya",
+      "neighbours": [
+        "v7n96gow02",
+        "u99w65yrmv"
+      ],
+      "coords": {
+        "lat": 41.08781,
+        "lng": 28.866925
+      }
+    },
+    {
+      "id": "u99w65yrmv",
+      "lineId": "istanbul_t4",
+      "name": "Cumhuriyet Mahallesi",
+      "neighbours": [
+        "pmv20ehc0ve",
+        "zrhw5ak1qm"
+      ],
+      "coords": {
+        "lat": 41.0837494209,
+        "lng": 28.8723589675
+      }
+    },
+    {
+      "id": "c0fycs8skjj",
+      "lineId": "istanbul_t4",
+      "name": "Karadeniz",
+      "neighbours": [
+        "zrhw5ak1qm",
+        "zmcsr65bknm"
+      ],
+      "coords": {
+        "lat": 41.0752992311,
+        "lng": 28.8822357296
+      }
+    },
+    {
+      "id": "zmcsr65bknm",
+      "lineId": "istanbul_t4",
+      "name": "Taşköprü",
+      "neighbours": [
+        "c0fycs8skjj",
+        "ee77tv98f2l"
+      ],
+      "coords": {
+        "lat": 41.0726579715,
+        "lng": 28.8876475166
+      }
+    },
+    {
+      "id": "ee77tv98f2l",
+      "lineId": "istanbul_t4",
+      "name": "Ali Fuat Başgil",
+      "neighbours": [
+        "zmcsr65bknm",
+        "nxpgtji0klk"
+      ],
+      "coords": {
+        "lat": 41.068493,
+        "lng": 28.895601
+      }
+    },
+    {
+      "id": "nxpgtji0klk",
+      "lineId": "istanbul_t4",
+      "name": "Bosna Çukurçeşme",
+      "neighbours": [
+        "ee77tv98f2l",
+        "ovw166vvv3j"
+      ],
+      "coords": {
+        "lat": 41.061832,
+        "lng": 28.902093
+      }
+    },
+    {
+      "id": "23j8yo9cw3d",
+      "lineId": "istanbul_t4",
+      "name": "Uluyol Bereç",
+      "neighbours": [
+        "ovw166vvv3j",
+        "aaz18wz1o8j"
+      ],
+      "coords": {
+        "lat": 41.0541381814,
+        "lng": 28.9102461379
+      }
+    },
+    {
+      "id": "aaz18wz1o8j",
+      "lineId": "istanbul_t4",
+      "name": "Rami",
+      "neighbours": [
+        "23j8yo9cw3d",
+        "jpdkobralja"
+      ],
+      "coords": {
+        "lat": 41.046518,
+        "lng": 28.915598
+      }
+    },
+    {
+      "id": "jpdkobralja",
+      "lineId": "istanbul_t4",
+      "name": "Topçular",
+      "neighbours": [
+        "aaz18wz1o8j",
+        "owzvnmrvryh"
+      ],
+      "coords": {
+        "lat": 41.041546,
+        "lng": 28.919608
+      }
+    },
+    {
+      "id": "owzvnmrvryh",
+      "lineId": "istanbul_t4",
+      "name": "Demirkapı",
+      "neighbours": [
+        "jpdkobralja",
+        "gb9326ktg45"
+      ],
+      "coords": {
+        "lat": 41.0369881849,
+        "lng": 28.923366509
+      }
+    },
+    {
+      "id": "gb9326ktg45",
+      "lineId": "istanbul_t4",
+      "name": "Şehitlik",
+      "neighbours": [
+        "owzvnmrvryh",
+        "wqq0lwf64d"
+      ],
+      "coords": {
+        "lat": 41.0341823475,
+        "lng": 28.9282530221
+      }
+    },
+    {
+      "id": "wqq0lwf64d",
+      "lineId": "istanbul_t4",
+      "name": "Edirnekapı",
+      "neighbours": [
+        "gb9326ktg45",
+        "w26jwjodbqh"
+      ],
+      "coords": {
+        "lat": 41.0314409253,
+        "lng": 28.9339710061
+      }
+    },
+    {
+      "id": "ir7t7c9vohp",
+      "lineId": "istanbul_t4",
+      "name": "Fetihkapı",
+      "neighbours": [
+        "w26jwjodbqh",
+        "6rr5yb6sdi8"
+      ],
+      "coords": {
+        "lat": 41.021825006,
+        "lng": 28.9253344699
+      }
+    },
+    {
+      "id": "mj8brdhedks",
+      "lineId": "istanbul_m1a",
+      "name": "Atatürk Havalimanı",
+      "neighbours": [
+        "pkqcdez3nah"
+      ],
+      "coords": {
+        "lat": 40.9795429431,
+        "lng": 28.8211244027
+      }
+    },
+    {
+      "id": "pkqcdez3nah",
+      "lineId": "istanbul_m1a",
+      "name": "DTM-İstanbul Fuar Merkezi",
+      "neighbours": [
+        "mj8brdhedks",
+        "1cjepo27nrvh"
+      ],
+      "coords": {
+        "lat": 40.9866455145,
+        "lng": 28.8285503243
+      }
+    },
+    {
+      "id": "s6p96vps5jg",
+      "lineId": "istanbul_m1a",
+      "name": "Davutpaşa-YTÜ",
+      "neighbours": [
+        "l9ic6jkeaya",
+        "l6zpo59l9i9"
+      ],
+      "coords": {
+        "lat": 41.0206387059,
+        "lng": 28.9001417888
+      }
+    },
+    {
+      "id": "l6zpo59l9i9",
+      "lineId": "istanbul_m1a",
+      "name": "Terazidere",
+      "neighbours": [
+        "s6p96vps5jg",
+        "oqbx2ao8qi9"
+      ],
+      "coords": {
+        "lat": 41.0303317032,
+        "lng": 28.8979522419
+      }
+    },
+    {
+      "id": "0eamd840x8he",
+      "lineId": "istanbul_m5",
+      "name": "Fıstıkağacı",
+      "neighbours": [
+        "h6oyz9dof95",
+        "d9i2xpty9f9"
+      ],
+      "coords": {
+        "lat": 41.028174185609586,
+        "lng": 29.028549998040898
+      }
+    },
+    {
+      "id": "d9i2xpty9f9",
+      "lineId": "istanbul_m5",
+      "name": "Bağlarbaşı",
+      "neighbours": [
+        "0eamd840x8he",
+        "008pirb4q4eyr"
+      ],
+      "coords": {
+        "lat": 41.02148576285262,
+        "lng": 29.035391369205474
+      }
+    },
+    {
+      "id": "n2hexov090f",
+      "lineId": "istanbul_m5",
+      "name": "Kısıklı",
+      "neighbours": [
+        "008pirb4q4eyr",
+        "e9tjl9f8bb5"
+      ],
+      "coords": {
+        "lat": 41.02223769603908,
+        "lng": 29.062589925029574
+      }
+    },
+    {
+      "id": "e9tjl9f8bb5",
+      "lineId": "istanbul_m5",
+      "name": "Bulgurlu",
+      "neighbours": [
+        "n2hexov090f",
+        "cfcdm4u8l0m"
+      ],
+      "coords": {
+        "lat": 41.016382220485276,
+        "lng": 29.07613191178137
+      }
+    },
+    {
+      "id": "cfcdm4u8l0m",
+      "lineId": "istanbul_m5",
+      "name": "Ümraniye",
+      "neighbours": [
+        "e9tjl9f8bb5",
+        "c1vgvyob3lh"
+      ],
+      "coords": {
+        "lat": 41.02475044117759,
+        "lng": 29.084914619850238
+      }
+    },
+    {
+      "id": "c1vgvyob3lh",
+      "lineId": "istanbul_m5",
+      "name": "Çarşı",
+      "neighbours": [
+        "cfcdm4u8l0m",
+        "yb5onwesqel"
+      ],
+      "coords": {
+        "lat": 41.025898812622515,
+        "lng": 29.097186268407956
+      }
+    },
+    {
+      "id": "yb5onwesqel",
+      "lineId": "istanbul_m5",
+      "name": "Yamanevler",
+      "neighbours": [
+        "c1vgvyob3lh",
+        "dh3vw2tiv0t"
+      ],
+      "coords": {
+        "lat": 41.02436045931574,
+        "lng": 29.10893285940382
+      }
+    },
+    {
+      "id": "dh3vw2tiv0t",
+      "lineId": "istanbul_m5",
+      "name": "Çakmak",
+      "neighbours": [
+        "yb5onwesqel",
+        "jn79kg14hei"
+      ],
+      "coords": {
+        "lat": 41.021651794492854,
+        "lng": 29.11831687527492
+      }
+    },
+    {
+      "id": "jn79kg14hei",
+      "lineId": "istanbul_m5",
+      "name": "Ihlamurkuyu",
+      "neighbours": [
+        "dh3vw2tiv0t",
+        "ajs5v2la4ms"
+      ],
+      "coords": {
+        "lat": 41.0193938740756,
+        "lng": 29.13128274037028
+      }
+    },
+    {
+      "id": "ajs5v2la4ms",
+      "lineId": "istanbul_m5",
+      "name": "Altınşehir",
+      "neighbours": [
+        "jn79kg14hei",
+        "ov65l1pha4"
+      ],
+      "coords": {
+        "lat": 41.01682949821649,
+        "lng": 29.138624552588546
+      }
+    },
+    {
+      "id": "ov65l1pha4",
+      "lineId": "istanbul_m5",
+      "name": "İmam Hatip Lisesi",
+      "neighbours": [
+        "ajs5v2la4ms",
+        "498avqh5xva"
+      ],
+      "coords": {
+        "lat": 41.016188074469916,
+        "lng": 29.15243635386462
+      }
+    },
+    {
+      "id": "v9vy65t6lac",
+      "lineId": "istanbul_m5",
+      "name": "Necip Fazıl",
+      "neighbours": [
+        "498avqh5xva",
+        "zfkrnvzwif"
+      ],
+      "coords": {
+        "lat": 41.01620878613601,
+        "lng": 29.17929437105173
+      }
+    },
+    {
+      "id": "zfkrnvzwif",
+      "lineId": "istanbul_m5",
+      "name": "Çekmeköy",
+      "neighbours": [
+        "v9vy65t6lac",
+        "v63bl635fde"
+      ],
+      "coords": {
+        "lat": 41.01456617003643,
+        "lng": 29.189447811535
+      }
+    },
+    {
+      "id": "ytoioxweujr",
+      "lineId": "istanbul_m6",
+      "name": "Nispetiye",
+      "neighbours": [
+        "phiaynqw2b",
+        "9z8v1g4kgnp"
+      ],
+      "coords": {
+        "lat": 41.077692,
+        "lng": 29.022356
+      }
+    },
+    {
+      "id": "9z8v1g4kgnp",
+      "lineId": "istanbul_m6",
+      "name": "Etiler",
+      "neighbours": [
+        "ytoioxweujr",
+        "9ori9vudfev"
+      ],
+      "coords": {
+        "lat": 41.082395,
+        "lng": 29.037593
+      }
+    },
+    {
+      "id": "k99ltdog8j",
+      "lineId": "istanbul_m7",
+      "name": "Yıldız",
+      "neighbours": [
+        "j1cl9bkjpeb"
+      ],
+      "coords": {
+        "lat": 41.055457368403594,
+        "lng": 29.009803051316943
+      }
+    },
+    {
+      "id": "j1cl9bkjpeb",
+      "lineId": "istanbul_m7",
+      "name": "Fulya",
+      "neighbours": [
+        "k99ltdog8j",
+        "qv19q3hk0p"
+      ],
+      "coords": {
+        "lat": 41.0619540753492,
+        "lng": 29.007236307110315
+      }
+    },
+    {
+      "id": "77klup0ddrv",
+      "lineId": "istanbul_m7",
+      "name": "Çağlayan",
+      "neighbours": [
+        "qv19q3hk0p",
+        "mezdjud67s"
+      ],
+      "coords": {
+        "lat": 41.07124,
+        "lng": 28.9797905
+      }
+    },
+    {
+      "id": "18ytoe2mvw1",
+      "lineId": "istanbul_m7",
+      "name": "Nurtepe",
+      "neighbours": [
+        "mezdjud67s",
+        "88vgnx79ujq"
+      ],
+      "coords": {
+        "lat": 41.0796403,
+        "lng": 28.9629489
+      }
+    },
+    {
+      "id": "eh83d16k0t",
+      "lineId": "istanbul_m7",
+      "name": "Çırçır",
+      "neighbours": [
+        "88vgnx79ujq",
+        "3nnd4j17vqx"
+      ],
+      "coords": {
+        "lat": 41.07985,
+        "lng": 28.93762
+      }
+    },
+    {
+      "id": "3nnd4j17vqx",
+      "lineId": "istanbul_m7",
+      "name": "Veysel Karani-Akşemsettin",
+      "neighbours": [
+        "eh83d16k0t",
+        "ypzy9lb56pq"
+      ],
+      "coords": {
+        "lat": 41.0796898,
+        "lng": 28.9295594
+      }
+    },
+    {
+      "id": "ypzy9lb56pq",
+      "lineId": "istanbul_m7",
+      "name": "Yeşilpınar",
+      "neighbours": [
+        "3nnd4j17vqx",
+        "zdldv7iaka"
+      ],
+      "coords": {
+        "lat": 41.0799901,
+        "lng": 28.9352699
+      }
+    },
+    {
+      "id": "zdldv7iaka",
+      "lineId": "istanbul_m7",
+      "name": "Kazım Karabekir",
+      "neighbours": [
+        "ypzy9lb56pq",
+        "31cqv5j8hc"
+      ],
+      "coords": {
+        "lat": 41.0854599,
+        "lng": 28.9085497
+      }
+    },
+    {
+      "id": "31cqv5j8hc",
+      "lineId": "istanbul_m7",
+      "name": "Yenimahalle",
+      "neighbours": [
+        "zdldv7iaka",
+        "0qc5wwpsi5ld"
+      ],
+      "coords": {
+        "lat": 41.0837182,
+        "lng": 28.8931096
+      }
+    },
+    {
+      "id": "giz5eye4uig",
+      "lineId": "istanbul_m7",
+      "name": "Tekstilkent-Giyimkent",
+      "neighbours": [
+        "0qc5wwpsi5ld",
+        "wyoy4ptm4l"
+      ],
+      "coords": {
+        "lat": 41.0712997,
+        "lng": 28.8668802
+      }
+    },
+    {
+      "id": "wyoy4ptm4l",
+      "lineId": "istanbul_m7",
+      "name": "Oruç Reis",
+      "neighbours": [
+        "giz5eye4uig",
+        "iyhvueomaaq"
+      ],
+      "coords": {
+        "lat": 41.0633806,
+        "lng": 28.8554406
+      }
+    },
+    {
+      "id": "iyhvueomaaq",
+      "lineId": "istanbul_m7",
+      "name": "Göztepe Mahallesi",
+      "neighbours": [
+        "wyoy4ptm4l",
+        "84w5sj5oykm"
+      ],
+      "coords": {
+        "lat": 41.0563991,
+        "lng": 28.8499689
+      }
+    },
+    {
+      "id": "n2p27iruns",
+      "lineId": "istanbul_m8",
+      "name": "Emin Ali Paşa",
+      "neighbours": [
+        "lk4au06zoa",
+        "27yox4sq2sv"
+      ],
+      "coords": {
+        "lat": 40.96054884646437,
+        "lng": 29.09385026231631
+      }
+    },
+    {
+      "id": "27yox4sq2sv",
+      "lineId": "istanbul_m8",
+      "name": "Ayşekadın",
+      "neighbours": [
+        "n2p27iruns",
+        "ds3ha32i7"
+      ],
+      "coords": {
+        "lat": 40.966729619003274,
+        "lng": 29.0868577820603
+      }
+    },
+    {
+      "id": "rhdtw4zm4tp",
+      "lineId": "istanbul_m8",
+      "name": "Küçükbakkalköy",
+      "neighbours": [
+        "ds3ha32i7",
+        "xdjxkkwobk9"
+      ],
+      "coords": {
+        "lat": 40.97913311692388,
+        "lng": 29.111999801732374
+      }
+    },
+    {
+      "id": "xdjxkkwobk9",
+      "lineId": "istanbul_m8",
+      "name": "İçerenköy",
+      "neighbours": [
+        "rhdtw4zm4tp",
+        "btocx32uuy"
+      ],
+      "coords": {
+        "lat": 40.979123476347006,
+        "lng": 29.126665087038585
+      }
+    },
+    {
+      "id": "btocx32uuy",
+      "lineId": "istanbul_m8",
+      "name": "Kayışdağı",
+      "neighbours": [
+        "xdjxkkwobk9",
+        "wsceelxzz3"
+      ],
+      "coords": {
+        "lat": 40.98552090314198,
+        "lng": 29.137286259239595
+      }
+    },
+    {
+      "id": "wsceelxzz3",
+      "lineId": "istanbul_m8",
+      "name": "Mevlana",
+      "neighbours": [
+        "btocx32uuy",
+        "dwobtrncb8g"
+      ],
+      "coords": {
+        "lat": 40.99236746200459,
+        "lng": 29.153558958239127
+      }
+    },
+    {
+      "id": "dwobtrncb8g",
+      "lineId": "istanbul_m8",
+      "name": "İmes",
+      "neighbours": [
+        "wsceelxzz3",
+        "2bdy7m61dxj"
+      ],
+      "coords": {
+        "lat": 40.99995161943781,
+        "lng": 29.156059357475755
+      }
+    },
+    {
+      "id": "2bdy7m61dxj",
+      "lineId": "istanbul_m8",
+      "name": "Modoko-Keyap",
+      "neighbours": [
+        "dwobtrncb8g",
+        "alxtmld93yk"
+      ],
+      "coords": {
+        "lat": 41.00761665286443,
+        "lng": 29.162182913381205
+      }
+    },
+    {
+      "id": "45c7zbm0r75",
+      "lineId": "istanbul_m8",
+      "name": "Huzur",
+      "neighbours": [
+        "alxtmld93yk",
+        "dv0wk34sdrs"
+      ],
+      "coords": {
+        "lat": 41.022498790602256,
+        "lng": 29.15945298159044
+      }
+    },
+    {
+      "id": "uq3s6yujld",
+      "lineId": "istanbul_t5",
+      "name": "Cibali",
+      "neighbours": [
+        "0eizd6oxcayj",
+        "19389ro8r76"
+      ],
+      "coords": {
+        "lat": 41.024336,
+        "lng": 28.960265
+      }
+    },
+    {
+      "id": "19389ro8r76",
+      "lineId": "istanbul_t5",
+      "name": "Fener",
+      "neighbours": [
+        "uq3s6yujld",
+        "woxklnwws2g"
+      ],
+      "coords": {
+        "lat": 41.028663,
+        "lng": 28.954462
+      }
+    },
+    {
+      "id": "woxklnwws2g",
+      "lineId": "istanbul_t5",
+      "name": "Balat",
+      "neighbours": [
+        "19389ro8r76",
+        "2yf35be1r8m"
+      ],
+      "coords": {
+        "lat": 41.034098,
+        "lng": 28.948012
+      }
+    },
+    {
+      "id": "2yf35be1r8m",
+      "lineId": "istanbul_t5",
+      "name": "Ayvansaray",
+      "neighbours": [
+        "woxklnwws2g",
+        "h1g80212ly5"
+      ],
+      "coords": {
+        "lat": 41.039607,
+        "lng": 28.943916
+      }
+    },
+    {
+      "id": "h1g80212ly5",
+      "lineId": "istanbul_t5",
+      "name": "Feshane",
+      "neighbours": [
+        "2yf35be1r8m",
+        "k8e1jufzyh"
+      ],
+      "coords": {
+        "lat": 41.045456,
+        "lng": 28.937978
+      }
+    },
+    {
+      "id": "ip0oybfj9fi",
+      "lineId": "istanbul_t5",
+      "name": "Eyüpsultan Devlet Hastanesi",
+      "neighbours": [
+        "k8e1jufzyh",
+        "4e0wd7gta2w"
+      ],
+      "coords": {
+        "lat": 41.056765,
+        "lng": 28.941212
+      }
+    },
+    {
+      "id": "4e0wd7gta2w",
+      "lineId": "istanbul_t5",
+      "name": "Silahtarağa Mahallesi",
+      "neighbours": [
+        "ip0oybfj9fi",
+        "rx9xb9ldtr"
+      ],
+      "coords": {
+        "lat": 41.064775,
+        "lng": 28.942874
+      }
+    },
+    {
+      "id": "rx9xb9ldtr",
+      "lineId": "istanbul_t5",
+      "name": "Üniversite",
+      "neighbours": [
+        "4e0wd7gta2w",
+        "5olmgjiuqfr"
+      ],
+      "coords": {
+        "lat": 41.069833,
+        "lng": 28.942865
+      }
+    },
+    {
+      "id": "5olmgjiuqfr",
+      "lineId": "istanbul_t5",
+      "name": "Alibeyköy Merkez",
+      "neighbours": [
+        "rx9xb9ldtr",
+        "1mrnu8686q8"
+      ],
+      "coords": {
+        "lat": 41.07381,
+        "lng": 28.946063
+      }
+    },
+    {
+      "id": "34jy48rle1r",
+      "lineId": "istanbul_t5",
+      "name": "Alibeyköy Cep Otogarı",
+      "neighbours": [
+        "1mrnu8686q8"
+      ],
+      "coords": {
+        "lat": 41.086915,
+        "lng": 28.943988
+      }
+    },
+    {
+      "id": "eimmt76ex59",
+      "lineId": "istanbul_t3",
+      "name": "İskele Cami",
+      "neighbours": [
+        "bx482yxvsxi"
+      ],
+      "coords": {
+        "lat": 40.989941,
+        "lng": 29.022135
+      }
+    },
+    {
+      "id": "bx482yxvsxi",
+      "lineId": "istanbul_t3",
+      "name": "Çarşı",
+      "neighbours": [
+        "eimmt76ex59",
+        "ruug2vybr6s"
+      ],
+      "coords": {
+        "lat": 40.991075,
+        "lng": 29.025428
+      }
+    },
+    {
+      "id": "ruug2vybr6s",
+      "lineId": "istanbul_t3",
+      "name": "Altıyol",
+      "neighbours": [
+        "bx482yxvsxi",
+        "zquap4k5dx"
+      ],
+      "coords": {
+        "lat": 40.99003,
+        "lng": 29.029066
+      }
+    },
+    {
+      "id": "zquap4k5dx",
+      "lineId": "istanbul_t3",
+      "name": "Bahariye",
+      "neighbours": [
+        "ruug2vybr6s",
+        "34dwwx973p5"
+      ],
+      "coords": {
+        "lat": 40.987932,
+        "lng": 29.028593
+      }
+    },
+    {
+      "id": "34dwwx973p5",
+      "lineId": "istanbul_t3",
+      "name": "Kilise",
+      "neighbours": [
+        "zquap4k5dx",
+        "amisgyeti7c"
+      ],
+      "coords": {
+        "lat": 40.986078,
+        "lng": 29.027885
+      }
+    },
+    {
+      "id": "amisgyeti7c",
+      "lineId": "istanbul_t3",
+      "name": "Moda İlkokulu",
+      "neighbours": [
+        "34dwwx973p5",
+        "dhm2u46dsj7"
+      ],
+      "coords": {
+        "lat": 40.98411,
+        "lng": 29.026652
+      }
+    },
+    {
+      "id": "dhm2u46dsj7",
+      "lineId": "istanbul_t3",
+      "name": "Moda Caddesi",
+      "neighbours": [
+        "amisgyeti7c",
+        "7p3noa6ida"
+      ],
+      "coords": {
+        "lat": 40.983932,
+        "lng": 29.024892
+      }
+    },
+    {
+      "id": "7p3noa6ida",
+      "lineId": "istanbul_t3",
+      "name": "Mühürdar",
+      "neighbours": [
+        "dhm2u46dsj7",
+        "trrkkrb28fa"
+      ],
+      "coords": {
+        "lat": 40.985098,
+        "lng": 29.021598
+      }
+    },
+    {
+      "id": "trrkkrb28fa",
+      "lineId": "istanbul_t3",
+      "name": "Damga Sokak",
+      "neighbours": [
+        "7p3noa6ida",
+        "c7nie6gl24"
+      ],
+      "coords": {
+        "lat": 40.987945,
+        "lng": 29.021009
+      }
+    },
+    {
+      "id": "c7nie6gl24",
+      "lineId": "istanbul_t3",
+      "name": "Kadıköy İDO",
+      "neighbours": [
+        "trrkkrb28fa",
+        "r46ll89xecm"
+      ],
+      "coords": {
+        "lat": 40.989273,
+        "lng": 29.020977
+      }
+    },
+    {
+      "id": "0qlmdsd5t5w",
+      "lineId": "istanbul_tf1",
+      "name": "Maçka",
+      "neighbours": [
+        "d50l16oyawf"
+      ],
+      "coords": {
+        "lat": 41.0446506053,
+        "lng": 28.9936254852
+      }
+    },
+    {
+      "id": "d50l16oyawf",
+      "lineId": "istanbul_tf1",
+      "name": "Taşkışla",
+      "neighbours": [
+        "0qlmdsd5t5w"
+      ],
+      "coords": {
+        "lat": 41.04367845791161,
+        "lng": 28.99034291338203
+      }
+    },
+    {
+      "id": "fiwaebo5c4w",
+      "lineId": "istanbul_tf2",
+      "name": "Piyer Loti",
+      "neighbours": [
+        "7up5z3xn4ra"
+      ],
+      "coords": {
+        "lat": 41.054193241,
+        "lng": 28.9327417801
+      }
+    },
+    {
+      "id": "j6izicvvtam",
+      "lineId": "istanbul_m9",
+      "name": "Olimpiyat",
+      "neighbours": [
+        "dh0f3m7bccb"
+      ],
+      "coords": {
+        "lat": 41.07978582261958,
+        "lng": 28.768494442218014
+      }
+    },
+    {
+      "id": "dh0f3m7bccb",
+      "lineId": "istanbul_m9",
+      "name": "Ziya Gökalp Mahallesi",
+      "neighbours": [
+        "j6izicvvtam",
+        "ztgz4evbuk"
+      ],
+      "coords": {
+        "lat": 41.07468683895818,
+        "lng": 28.786425453865895
+      }
+    },
+    {
+      "id": "bnpblh2zsj",
+      "lineId": "istanbul_m9",
+      "name": "Masko",
+      "neighbours": [
+        "ztgz4evbuk",
+        "sythgvmbwxn"
+      ],
+      "coords": {
+        "lat": 41.064346478553354,
+        "lng": 28.804145099888043
+      }
+    },
+    {
+      "id": "sythgvmbwxn",
+      "lineId": "istanbul_m9",
+      "name": "Bahariye",
+      "neighbours": [
+        "bnpblh2zsj",
+        "uhjsz1ncj4n"
+      ],
+      "coords": {
+        "lat": 41.058692228126105,
+        "lng": 28.79921854037114
+      }
+    },
+    {
+      "id": "r46ll89xecm",
+      "lineId": "istanbul_t3",
+      "name": "Rızapaşa",
+      "neighbours": [
+        "c7nie6gl24"
+      ],
+      "coords": {
+        "lat": 40.984465405285626,
+        "lng": 29.023221050093916
+      }
+    },
+    {
+      "id": "7zml2pk948f",
+      "lineId": "istanbul_m4",
+      "name": "Fevzi Çakmak-Hastane",
+      "neighbours": [
+        "2x4cwrpbi2q",
+        "ord2dxcfp1"
+      ],
+      "coords": {
+        "lat": 40.888913773148275,
+        "lng": 29.262377999300135
+      }
+    },
+    {
+      "id": "ord2dxcfp1",
+      "lineId": "istanbul_m4",
+      "name": "Yayalar-Şeyhli",
+      "neighbours": [
+        "7zml2pk948f",
+        "guvlaf4pq0n"
+      ],
+      "coords": {
+        "lat": 40.90415466320274,
+        "lng": 29.275928959686205
+      }
+    },
+    {
+      "id": "guvlaf4pq0n",
+      "lineId": "istanbul_m4",
+      "name": "Kurtköy",
+      "neighbours": [
+        "ord2dxcfp1",
+        "0pacbcwqboap"
+      ],
+      "coords": {
+        "lat": 40.91061969898158,
+        "lng": 29.297057446459206
+      }
+    },
+    {
+      "id": "0pacbcwqboap",
+      "lineId": "istanbul_m4",
+      "name": "Sabiha Gökçen Havalimanı",
+      "neighbours": [
+        "guvlaf4pq0n"
+      ],
+      "coords": {
+        "lat": 40.90597411173135,
+        "lng": 29.310554150804887
+      }
+    },
+    {
+      "id": "zrwo2xjv31i",
+      "lineId": "istanbul_f4",
+      "name": "Aşiyan",
+      "neighbours": [
+        "q9zz1w69tbd"
+      ],
+      "coords": {
+        "lat": 41.0815736348652,
+        "lng": 29.05422416736053
+      }
+    },
+    {
+      "id": "dv0wk34sdrs",
+      "lineId": "istanbul_m8",
+      "name": "Parseller",
+      "neighbours": [
+        "45c7zbm0r75"
+      ],
+      "coords": {
+        "lat": 41.03187863452558,
+        "lng": 29.152689072367757
+      }
+    },
+    {
+      "id": "uhjsz1ncj4n",
+      "lineId": "istanbul_m9",
+      "name": "Atatürk Mahallesi",
+      "neighbours": [
+        "sythgvmbwxn",
+        "547u7749vbb"
+      ],
+      "coords": {
+        "lat": 41.05288544691126,
+        "lng": 28.79864644035015
+      }
+    },
+    {
+      "id": "547u7749vbb",
+      "lineId": "istanbul_m9",
+      "name": "Halkalı Caddesi",
+      "neighbours": [
+        "uhjsz1ncj4n",
+        "wc3ntj5zlfr"
+      ],
+      "coords": {
+        "lat": 41.04552704030184,
+        "lng": 28.80633957331045
+      }
+    },
+    {
+      "id": "wc3ntj5zlfr",
+      "lineId": "istanbul_m9",
+      "name": "15 Temmuz",
+      "neighbours": [
+        "547u7749vbb",
+        "2xdce1bkia9"
+      ],
+      "coords": {
+        "lat": 41.036864,
+        "lng": 28.814156
+      }
+    },
+    {
+      "id": "2xdce1bkia9",
+      "lineId": "istanbul_m9",
+      "name": "Mimar Sinan",
+      "neighbours": [
+        "wc3ntj5zlfr",
+        "sg4gu5nnc4"
+      ],
+      "coords": {
+        "lat": 41.025085,
+        "lng": 28.816549
+      }
+    },
+    {
+      "id": "sg4gu5nnc4",
+      "lineId": "istanbul_m9",
+      "name": "Doğu Sanayi",
+      "neighbours": [
+        "2xdce1bkia9",
+        "lexlclupmw"
+      ],
+      "coords": {
+        "lat": 41.014893,
+        "lng": 28.817986
+      }
+    },
+    {
+      "id": "lexlclupmw",
+      "lineId": "istanbul_m9",
+      "name": "29 Ekim - Cumhuriyet",
+      "neighbours": [
+        "sg4gu5nnc4",
+        "1ma49e9svhd"
+      ],
+      "coords": {
+        "lat": 41.006215,
+        "lng": 28.818603
+      }
+    },
+    {
+      "id": "1ma49e9svhd",
+      "lineId": "istanbul_m9",
+      "name": "Çobançeşme",
+      "neighbours": [
+        "lexlclupmw",
+        "eyz60hivgw5"
+      ],
+      "coords": {
+        "lat": 40.999713,
+        "lng": 28.822589
+      }
+    },
+    {
+      "id": "b95ginla55",
+      "lineId": "istanbul_m3",
+      "name": "Onurkent",
+      "neighbours": [
+        "k0tol0v97yj",
+        "lyr5xfek0fj"
+      ],
+      "coords": {
+        "lat": 41.11350955222164,
+        "lng": 28.79034835203765
+      }
+    },
+    {
+      "id": "lyr5xfek0fj",
+      "lineId": "istanbul_m3",
+      "name": "Şehir Hastanesi",
+      "neighbours": [
+        "b95ginla55",
+        "1zkck6ivbcu"
+      ],
+      "coords": {
+        "lat": 41.103457237940475,
+        "lng": 28.777855352037243
+      }
+    },
+    {
+      "id": "1zkck6ivbcu",
+      "lineId": "istanbul_m3",
+      "name": "Toplu Konutlar",
+      "neighbours": [
+        "lyr5xfek0fj",
+        "65188j3vytx"
+      ],
+      "coords": {
+        "lat": 41.1076043981571,
+        "lng": 28.76788272505376
+      }
+    },
+    {
+      "id": "65188j3vytx",
+      "lineId": "istanbul_m3",
+      "name": "Kayaşehir Merkez",
+      "neighbours": [
+        "1zkck6ivbcu",
+        "kg96i37owz"
+      ],
+      "coords": {
+        "lat": 41.12006437207407,
+        "lng": 28.766642996218255
+      }
+    },
+    {
+      "id": "v63bl635fde",
+      "lineId": "istanbul_m5",
+      "name": "Meclis",
+      "neighbours": [
+        "zfkrnvzwif",
+        "nm07cah47a"
+      ],
+      "coords": {
+        "lat": 41.0097339184714,
+        "lng": 29.198827223504292
+      }
+    },
+    {
+      "id": "nm07cah47a",
+      "lineId": "istanbul_m5",
+      "name": "Sarıgazi",
+      "neighbours": [
+        "v63bl635fde",
+        "be99pvn35u"
+      ],
+      "coords": {
+        "lat": 41.01031088932276,
+        "lng": 29.212121182720836
+      }
+    },
+    {
+      "id": "be99pvn35u",
+      "lineId": "istanbul_m5",
+      "name": "Sancaktepe",
+      "neighbours": [
+        "nm07cah47a",
+        "qip561q2jrk"
+      ],
+      "coords": {
+        "lat": 40.99133734652666,
+        "lng": 29.22925491155591
+      }
+    },
+    {
+      "id": "qip561q2jrk",
+      "lineId": "istanbul_m5",
+      "name": "Samandıra Merkez",
+      "neighbours": [
+        "be99pvn35u"
+      ],
+      "coords": {
+        "lat": 40.983897557616025,
+        "lng": 29.231410725047297
+      }
+    },
+    {
+      "id": "kg96i37owz",
+      "lineId": "istanbul_m3",
+      "name": "Molla Gürani",
+      "neighbours": [
+        "65188j3vytx",
+        "vie7jd0cyq"
+      ],
+      "coords": {
+        "lat": 41.02551147580674,
+        "lng": 28.848112725049546
+      }
+    },
+    {
+      "id": "vie7jd0cyq",
+      "lineId": "istanbul_m3",
+      "name": "İlkyuva",
+      "neighbours": [
+        "kg96i37owz",
+        "pskd2cwnbuq"
+      ],
+      "coords": {
+        "lat": 41.0117525985906,
+        "lng": 28.865987182720854
+      }
+    },
+    {
+      "id": "pskd2cwnbuq",
+      "lineId": "istanbul_m3",
+      "name": "Haznedar",
+      "neighbours": [
+        "vie7jd0cyq",
+        "nvhlp3i4pxc"
+      ],
+      "coords": {
+        "lat": 41.006429380800306,
+        "lng": 28.870525623196162
+      }
+    },
+    {
+      "id": "6okycyrvbb2",
+      "lineId": "istanbul_m3",
+      "name": "Bakırköy Sahil",
+      "neighbours": [
+        "xo60sgqchv"
+      ],
+      "coords": {
+        "lat": 40.97380907939043,
+        "lng": 28.86808953853861
+      }
+    },
+    {
+      "id": "3g49q7j0444",
+      "lineId": "istanbul_34",
+      "name": "Fikirtepe",
+      "neighbours": []
+    },
+    {
+      "id": "z8lx4efxtz",
+      "lineId": "istanbul_34",
+      "name": "Acıbadem",
+      "neighbours": []
+    },
+    {
+      "id": "hwu0w81j5wp",
+      "lineId": "istanbul_34",
+      "name": "Burhaniye",
+      "neighbours": []
+    },
+    {
+      "id": "8qp4ckxuh89",
+      "lineId": "istanbul_34",
+      "name": "15 Temmuz Şehitler Köprüsü",
+      "neighbours": []
+    },
+    {
+      "id": "eqt8xpatq4",
+      "lineId": "istanbul_34",
+      "name": "Çağlayan",
+      "neighbours": []
+    },
+    {
+      "id": "hi64kjvudyj",
+      "lineId": "istanbul_34",
+      "name": "Okmeydanı Hastane",
+      "neighbours": []
+    },
+    {
+      "id": "e3a4zupm3ls",
+      "lineId": "istanbul_34",
+      "name": "Darülaceze-Perpa",
+      "neighbours": []
+    },
+    {
+      "id": "xatfxqifpu",
+      "lineId": "istanbul_34",
+      "name": "Okmeydanı",
+      "neighbours": []
+    },
+    {
+      "id": "1gpoydtu0bo",
+      "lineId": "istanbul_34",
+      "name": "Halıcıoğlu",
+      "neighbours": []
+    },
+    {
+      "id": "syzkeabzckc",
+      "lineId": "istanbul_34",
+      "name": "Ayvansaray-Eyüpsultan",
+      "neighbours": []
+    },
+    {
+      "id": "vwpujkss7l",
+      "lineId": "istanbul_34",
+      "name": "Edirnekapı",
+      "neighbours": []
+    },
+    {
+      "id": "3lzo93y46t",
+      "lineId": "istanbul_34",
+      "name": "Bayrampaşa-Maltepe/Koç Üniviversitesi Hastanesi",
+      "neighbours": []
+    },
+    {
+      "id": "53g5q67358o",
+      "lineId": "istanbul_34",
+      "name": "Topkapı-Şehit Mustafa Cambaz",
+      "neighbours": []
+    },
+    {
+      "id": "zhp5llps9n",
+      "lineId": "istanbul_34",
+      "name": "Cevizlibağ",
+      "neighbours": []
+    },
+    {
+      "id": "iq80sxk5f2i",
+      "lineId": "istanbul_34",
+      "name": "Sefaköy",
+      "neighbours": []
+    },
+    {
+      "id": "xodzwf24xn7",
+      "lineId": "istanbul_34",
+      "name": "Beşyol",
+      "neighbours": []
+    },
+    {
+      "id": "k42okuypox",
+      "lineId": "istanbul_34",
+      "name": "Florya",
+      "neighbours": []
+    },
+    {
+      "id": "d3351s98b2k",
+      "lineId": "istanbul_34",
+      "name": "Cennet Mahallesi",
+      "neighbours": []
+    },
+    {
+      "id": "gcz71zqav15",
+      "lineId": "istanbul_34",
+      "name": "İBB Sosyal Tesisleri",
+      "neighbours": []
+    },
+    {
+      "id": "ah1rtk1xyw6",
+      "lineId": "istanbul_34",
+      "name": "Şükrübey",
+      "neighbours": []
+    },
+    {
+      "id": "kruqalnhyv9",
+      "lineId": "istanbul_34",
+      "name": "Avcılar Merkez-Üniversite Kampüsü",
+      "neighbours": []
+    },
+    {
+      "id": "0jfrl0296huu",
+      "lineId": "istanbul_34",
+      "name": "Cihangir-Üniversite Mahallesi",
+      "neighbours": []
+    },
+    {
+      "id": "lk4z3z1uny9",
+      "lineId": "istanbul_34",
+      "name": "Mustafa Kemal Paşa",
+      "neighbours": []
+    },
+    {
+      "id": "liumtogt3m",
+      "lineId": "istanbul_34",
+      "name": "Saadetdere Mahallesi",
+      "neighbours": []
+    },
+    {
+      "id": "4cy0fnu5ljy",
+      "lineId": "istanbul_34",
+      "name": "Haramidere Sanayi",
+      "neighbours": []
+    },
+    {
+      "id": "omugk64jfk9",
+      "lineId": "istanbul_34",
+      "name": "Haramidere",
+      "neighbours": []
+    },
+    {
+      "id": "4k7wyh3na7g",
+      "lineId": "istanbul_34",
+      "name": "Güzelyurt",
+      "neighbours": []
+    },
+    {
+      "id": "h1nrzwqcf7p",
+      "lineId": "istanbul_34",
+      "name": "Beylikdüzü",
+      "neighbours": []
+    },
+    {
+      "id": "4p6fdxi3904",
+      "lineId": "istanbul_34",
+      "name": "Beylikdüzü Belediye",
+      "neighbours": []
+    },
+    {
+      "id": "9yl7zfnnrdo",
+      "lineId": "istanbul_34",
+      "name": "Cumhuriyet Mahallesi",
+      "neighbours": []
+    },
+    {
+      "id": "qee3sbf1frr",
+      "lineId": "istanbul_34",
+      "name": "Beykent",
+      "neighbours": []
+    },
+    {
+      "id": "63g6cc4bh42",
+      "lineId": "istanbul_34",
+      "name": "Beylikdüzü Sondurak",
+      "neighbours": []
+    },
+    {
+      "id": "6ls04592r5",
+      "lineId": "istanbul_b1",
+      "name": "Halkalı",
+      "neighbours": []
+    },
+    {
+      "id": "kz8wa1o9n4j",
+      "lineId": "istanbul_b1",
+      "name": "Mustafa Kemal",
+      "neighbours": []
+    },
+    {
+      "id": "vg13edig07p",
+      "lineId": "istanbul_b1",
+      "name": "Florya",
+      "neighbours": []
+    },
+    {
+      "id": "mmkth3zl7ap",
+      "lineId": "istanbul_b1",
+      "name": "Florya Akvaryum",
+      "neighbours": []
+    },
+    {
+      "id": "8ygdlbf7ngr",
+      "lineId": "istanbul_b1",
+      "name": "Yeşilköy",
+      "neighbours": []
+    },
+    {
+      "id": "ljj6mfzi8c",
+      "lineId": "istanbul_b1",
+      "name": "Yeşilyurt",
+      "neighbours": []
+    },
+    {
+      "id": "du9xhx5drmg",
+      "lineId": "istanbul_b1",
+      "name": "Yenimahalle",
+      "neighbours": []
+    },
+    {
+      "id": "zu2pcdhwu5b",
+      "lineId": "istanbul_b1",
+      "name": "Zeytinburnu - Fişekhane",
+      "neighbours": []
+    },
+    {
+      "id": "4lhbmvkjqn",
+      "lineId": "istanbul_b1",
+      "name": "Feneryolu",
+      "neighbours": []
+    },
+    {
+      "id": "3ekfbcfhn5h",
+      "lineId": "istanbul_b1",
+      "name": "Göztepe",
+      "neighbours": []
+    },
+    {
+      "id": "dczmr9gr2f8",
+      "lineId": "istanbul_b1",
+      "name": "Erenköy",
+      "neighbours": []
+    },
+    {
+      "id": "akaehlb9wlp",
+      "lineId": "istanbul_b1",
+      "name": "Suadiye",
+      "neighbours": []
+    },
+    {
+      "id": "zbllx5p4p4",
+      "lineId": "istanbul_b1",
+      "name": "Küçükyalı",
+      "neighbours": []
+    },
+    {
+      "id": "rcdkdpkcp5q",
+      "lineId": "istanbul_b1",
+      "name": "İdealtepe",
+      "neighbours": []
+    },
+    {
+      "id": "qgw76dgvmi9",
+      "lineId": "istanbul_b1",
+      "name": "Süreyya Plajı",
+      "neighbours": []
+    },
+    {
+      "id": "iafkna5a9c9",
+      "lineId": "istanbul_b1",
+      "name": "Maltepe",
+      "neighbours": []
+    },
+    {
+      "id": "vlwmhfbddtc",
+      "lineId": "istanbul_b1",
+      "name": "Cevizli",
+      "neighbours": []
+    },
+    {
+      "id": "5teykfrykm",
+      "lineId": "istanbul_b1",
+      "name": "Atalar",
+      "neighbours": []
+    },
+    {
+      "id": "45hzak53ovw",
+      "lineId": "istanbul_b1",
+      "name": "Başak",
+      "neighbours": []
+    },
+    {
+      "id": "5na0cyhzjpk",
+      "lineId": "istanbul_b1",
+      "name": "Kartal",
+      "neighbours": []
+    },
+    {
+      "id": "pkwhm2zvrh",
+      "lineId": "istanbul_b1",
+      "name": "Yunus",
+      "neighbours": []
+    },
+    {
+      "id": "mmsrvslz5z",
+      "lineId": "istanbul_b1",
+      "name": "Pendik",
+      "neighbours": []
+    },
+    {
+      "id": "lw9pjpt9lz",
+      "lineId": "istanbul_b1",
+      "name": "Kaynarca",
+      "neighbours": []
+    },
+    {
+      "id": "ovbw1e8in8",
+      "lineId": "istanbul_b1",
+      "name": "Tersane",
+      "neighbours": []
+    },
+    {
+      "id": "urozxqim5r9",
+      "lineId": "istanbul_b1",
+      "name": "Güzelyalı",
+      "neighbours": []
+    },
+    {
+      "id": "fzb6dalms3",
+      "lineId": "istanbul_b1",
+      "name": "Aydıntepe",
+      "neighbours": []
+    },
+    {
+      "id": "506gvpilhlm",
+      "lineId": "istanbul_b1",
+      "name": "İçmeler",
+      "neighbours": []
+    },
+    {
+      "id": "1klsm0bees4",
+      "lineId": "istanbul_b1",
+      "name": "Tuzla",
+      "neighbours": []
+    },
+    {
+      "id": "8dgn9rf4qvp",
+      "lineId": "istanbul_b1",
+      "name": "Çayırova",
+      "neighbours": []
+    },
+    {
+      "id": "o8q7tb4t9hd",
+      "lineId": "istanbul_b1",
+      "name": "GTÜ - Fatih",
+      "neighbours": []
+    },
+    {
+      "id": "fhg9mziytk",
+      "lineId": "istanbul_b1",
+      "name": "Osmangazi",
+      "neighbours": []
+    },
+    {
+      "id": "9hcqv8muq8q",
+      "lineId": "istanbul_b1",
+      "name": "Darıca",
+      "neighbours": []
+    },
+    {
+      "id": "7vflq1kdlrt",
+      "lineId": "istanbul_b1",
+      "name": "Gebze",
+      "neighbours": []
+    },
+    {
+      "id": "wluoyviewz",
+      "lineId": "istanbul_t6",
+      "name": "Cankurtaran",
+      "neighbours": []
+    },
+    {
+      "id": "2z4k56mzj2z",
+      "lineId": "istanbul_t6",
+      "name": "Kumkapı",
+      "neighbours": []
+    },
+    {
+      "id": "j928ypxstvn",
+      "lineId": "istanbul_t6",
+      "name": "Cerrahpaşa",
+      "neighbours": []
+    },
+    {
+      "id": "lf6gnqk7guf",
+      "lineId": "istanbul_t6",
+      "name": "Kocamustafapaşa",
+      "neighbours": []
+    },
+    {
+      "id": "zr6goyvg0vc",
+      "lineId": "istanbul_t6",
+      "name": "Yedikule",
+      "neighbours": []
+    }
+  ],
+  "transfers": [
+    [
+      "m5get6yr0jf",
+      "k4l5bm6fc8r",
+      "1vcs2v8aluk",
+      "c2z06h1zgeg",
+      "6avh4b0xjoc"
     ],
-    "transfers": [
-        [
-            "m5get6yr0jf",
-            "k4l5bm6fc8r",
-            "1vcs2v8aluk",
-            "c2z06h1zgeg",
-            "6avh4b0xjoc"
-        ],
-        [
-            "9tfj9nz9g1",
-            "ifjhhzztizp"
-        ],
-        [
-            "1cjepo27nrvh",
-            "eyz60hivgw5",
-            "0wtw2glmsye"
-        ],
-        [
-            "h6oyz9dof95",
-            "0z6lbnylds8"
-        ],
-        [
-            "stlhtmb462h",
-            "gs71bfm9tht"
-        ],
-        [
-            "8mbj3xqstzt",
-            "s6nf8uaoens",
-            "j8cvqjpy1ne"
-        ],
-        [
-            "iy75jldes6n",
-            "a28v5veaie"
-        ],
-        [
-            "seunqn6bsxh",
-            "uoent88yc8"
-        ],
-        [
-            "4y682w3i5ea",
-            "v1tjzadrwmc"
-        ],
-        [
-            "5fqtp21dpw",
-            "ds3ha32i7"
-        ],
-        [
-            "xo60sgqchv",
-            "nxgynyj1uc"
-        ],
-        [
-            "em5y4yjwre",
-            "7nppeyr7exu"
-        ],
-        [
-            "mezdjud67s"
-        ],
-        [
-            "88vgnx79ujq",
-            "1mrnu8686q8"
-        ],
-        [
-            "czy93pxzp99",
-            "qv19q3hk0p",
-            "cgloojgjvuu"
-        ],
-        [
-            "w26jwjodbqh",
-            "fvyvmebwrgl",
-            "ms18wogv2f"
-        ],
-        [
-            "ajjowzrie6q",
-            "yjqs8mx6shs",
-            "fyoweki6ilu"
-        ],
-        [
-            "l9ic6jkeaya",
-            "dphogf084ic"
-        ],
-        [
-            "uej4cd81ku",
-            "lqqcki0x6"
-        ],
-        [
-            "z99za5xyhs",
-            "nvhlp3i4pxc",
-            "o4tl6c6ouq"
-        ],
-        [
-            "uw4csenzge",
-            "6rr5yb6sdi8"
-        ],
-        [
-            "9xi33u6uh4g",
-            "84w5sj5oykm"
-        ],
-        [
-            "kxgljf5kxl",
-            "ztgz4evbuk"
-        ],
-        [
-            "5qyhd92qmyj"
-        ],
-        [
-            "008pirb4q4eyr",
-            "yjqysnuw09"
-        ],
-        [
-            "n94uq67folj",
-            "lk4au06zoa",
-            "z0bw0ilq0nr"
-        ],
-        [
-            "498avqh5xva",
-            "alxtmld93yk"
-        ],
-        [
-            "x9cdjbacf7q",
-            "0h7ihe0dywv"
-        ],
-        [
-            "k0tol0v97yj",
-            "z8tadf0317"
-        ],
-        [
-            "u6ny4wmxyz"
-        ],
-        [
-            "yuxpy53sc5",
-            "wr7w207aag"
-        ],
-        [
-            "zrhw5ak1qm",
-            "0qc5wwpsi5ld"
-        ],
-        [
-            "blmlsgryv66",
-            "s7kjm2y546k"
-        ],
-        [
-            "oqbx2ao8qi9",
-            "02587sdd9khm"
-        ],
-        [
-            "ovw166vvv3j",
-            "83r2ywvt6so",
-            "sja399ywoqc"
-        ],
-        [
-            "fqaq3giervh",
-            "2qbag7k85gd"
-        ],
-        [
-            "oiy4smgzsk",
-            "akr3ckl5dy7"
-        ],
-        [
-            "irecq347bge",
-            "jayri8jxv9",
-            "apsvzl33w6s"
-        ],
-        [
-            "om0verb7w7o",
-            "jcp72hwp9dj"
-        ],
-        [
-            "jguaz46s9f",
-            "2fautqbuqr1"
-        ],
-        [
-            "qflblf50b09",
-            "0eizd6oxcayj"
-        ],
-        [
-            "k8e1jufzyh",
-            "7up5z3xn4ra"
-        ],
-        [
-            "kassnunexir",
-            "phiaynqw2b"
-        ],
-        [
-            "9ori9vudfev",
-            "q9zz1w69tbd"
-        ],
-        [
-            "thonbxzk3ai",
-            "qolmaz6uo9"
-        ],
-        [
-            "iyzyxxvcb0d",
-            "pj61vvujg2"
-        ],
-        [
-            "mir47s6g2h"
-        ],
-        [
-            "akuzl77yvy"
-        ],
-        [
-            "cdl2gq09jno"
-        ],
-        [
-            "2ld0gxap8sw"
-        ],
-        [
-            "6jvi2b1gl29"
-        ],
-        [
-            "8jblmdz2vtr"
-        ],
-        [
-            "bijm066v9ws"
-        ],
-        [
-            "04rrnrgfjtse"
-        ],
-        [
-            "6g76id1bag5"
-        ],
-        [
-            "iw51bamufeo"
-        ],
-        [
-            "1wq66u70zl3"
-        ],
-        [
-            "i0wc4eheps"
-        ],
-        [
-            "g4fhtwvvguf"
-        ],
-        [
-            "53agw0c6eqa"
-        ],
-        [
-            "2x4cwrpbi2q"
-        ],
-        [
-            "8ggkg4u3fsw"
-        ],
-        [
-            "uaa5p2a9w6"
-        ],
-        [
-            "0wdl41f5ft3l"
-        ],
-        [
-            "uiuru0guoh"
-        ],
-        [
-            "s7xqucn43ko"
-        ],
-        [
-            "p37n6g2qfo9"
-        ],
-        [
-            "l0p69xv3la"
-        ],
-        [
-            "7kq5v7sl1yf"
-        ],
-        [
-            "1n26nwz4ujt"
-        ],
-        [
-            "ntlihqnu7kc"
-        ],
-        [
-            "xqn4qk4rr6"
-        ],
-        [
-            "t0q10alkj2"
-        ],
-        [
-            "jurelzu5oxq"
-        ],
-        [
-            "w6gufxczsbn"
-        ],
-        [
-            "4dr6vz6jikx"
-        ],
-        [
-            "dfqn83trn3m"
-        ],
-        [
-            "3hgeg8lxoay"
-        ],
-        [
-            "htom7n8nku6"
-        ],
-        [
-            "kuk0hxoy2al"
-        ],
-        [
-            "hb35hy42r0h"
-        ],
-        [
-            "clmp86uo3p4"
-        ],
-        [
-            "yov0v1um0i"
-        ],
-        [
-            "x70gu4lm7mk"
-        ],
-        [
-            "6j9pqpgb1eh"
-        ],
-        [
-            "nifjj60x3jd"
-        ],
-        [
-            "i8kpcaktnvr"
-        ],
-        [
-            "723ug8xlvjj"
-        ],
-        [
-            "hf0nhisfexe"
-        ],
-        [
-            "kf3n35lm4if"
-        ],
-        [
-            "0fts48o8z0l"
-        ],
-        [
-            "k04guiu78r"
-        ],
-        [
-            "jzyy7cr04q"
-        ],
-        [
-            "kfgncyfa6n"
-        ],
-        [
-            "rqrm3h8v7yo"
-        ],
-        [
-            "rtvfdophy5"
-        ],
-        [
-            "s227e2ias2r"
-        ],
-        [
-            "v7rlezanl68"
-        ],
-        [
-            "5zccm0a1skk"
-        ],
-        [
-            "yl32s19r4hn"
-        ],
-        [
-            "rg1yaemgu7"
-        ],
-        [
-            "3w54a9sosqq"
-        ],
-        [
-            "cn92csv8lw8"
-        ],
-        [
-            "lnd36tl97je"
-        ],
-        [
-            "1ihytkh1zi4"
-        ],
-        [
-            "9r9oml04wxn"
-        ],
-        [
-            "v7n96gow02"
-        ],
-        [
-            "pmv20ehc0ve"
-        ],
-        [
-            "u99w65yrmv"
-        ],
-        [
-            "c0fycs8skjj"
-        ],
-        [
-            "zmcsr65bknm"
-        ],
-        [
-            "ee77tv98f2l"
-        ],
-        [
-            "nxpgtji0klk"
-        ],
-        [
-            "23j8yo9cw3d"
-        ],
-        [
-            "aaz18wz1o8j"
-        ],
-        [
-            "jpdkobralja"
-        ],
-        [
-            "owzvnmrvryh"
-        ],
-        [
-            "gb9326ktg45"
-        ],
-        [
-            "wqq0lwf64d"
-        ],
-        [
-            "ir7t7c9vohp"
-        ],
-        [
-            "mj8brdhedks"
-        ],
-        [
-            "pkqcdez3nah"
-        ],
-        [
-            "s6p96vps5jg"
-        ],
-        [
-            "l6zpo59l9i9"
-        ],
-        [
-            "0eamd840x8he"
-        ],
-        [
-            "d9i2xpty9f9"
-        ],
-        [
-            "n2hexov090f"
-        ],
-        [
-            "e9tjl9f8bb5"
-        ],
-        [
-            "cfcdm4u8l0m"
-        ],
-        [
-            "c1vgvyob3lh"
-        ],
-        [
-            "yb5onwesqel"
-        ],
-        [
-            "dh3vw2tiv0t"
-        ],
-        [
-            "jn79kg14hei"
-        ],
-        [
-            "ajs5v2la4ms"
-        ],
-        [
-            "ov65l1pha4"
-        ],
-        [
-            "v9vy65t6lac"
-        ],
-        [
-            "zfkrnvzwif"
-        ],
-        [
-            "ytoioxweujr"
-        ],
-        [
-            "9z8v1g4kgnp"
-        ],
-        [
-            "k99ltdog8j"
-        ],
-        [
-            "j1cl9bkjpeb"
-        ],
-        [
-            "77klup0ddrv"
-        ],
-        [
-            "18ytoe2mvw1"
-        ],
-        [
-            "eh83d16k0t"
-        ],
-        [
-            "3nnd4j17vqx"
-        ],
-        [
-            "ypzy9lb56pq"
-        ],
-        [
-            "zdldv7iaka"
-        ],
-        [
-            "31cqv5j8hc"
-        ],
-        [
-            "giz5eye4uig"
-        ],
-        [
-            "wyoy4ptm4l"
-        ],
-        [
-            "iyhvueomaaq"
-        ],
-        [
-            "n2p27iruns"
-        ],
-        [
-            "27yox4sq2sv"
-        ],
-        [
-            "rhdtw4zm4tp"
-        ],
-        [
-            "xdjxkkwobk9"
-        ],
-        [
-            "btocx32uuy"
-        ],
-        [
-            "wsceelxzz3"
-        ],
-        [
-            "dwobtrncb8g"
-        ],
-        [
-            "2bdy7m61dxj"
-        ],
-        [
-            "45c7zbm0r75"
-        ],
-        [
-            "uq3s6yujld"
-        ],
-        [
-            "19389ro8r76"
-        ],
-        [
-            "woxklnwws2g"
-        ],
-        [
-            "2yf35be1r8m"
-        ],
-        [
-            "h1g80212ly5"
-        ],
-        [
-            "ip0oybfj9fi"
-        ],
-        [
-            "4e0wd7gta2w"
-        ],
-        [
-            "rx9xb9ldtr"
-        ],
-        [
-            "5olmgjiuqfr"
-        ],
-        [
-            "34jy48rle1r"
-        ],
-        [
-            "eimmt76ex59"
-        ],
-        [
-            "bx482yxvsxi"
-        ],
-        [
-            "ruug2vybr6s"
-        ],
-        [
-            "zquap4k5dx"
-        ],
-        [
-            "34dwwx973p5"
-        ],
-        [
-            "amisgyeti7c"
-        ],
-        [
-            "dhm2u46dsj7"
-        ],
-        [
-            "7p3noa6ida"
-        ],
-        [
-            "trrkkrb28fa"
-        ],
-        [
-            "c7nie6gl24"
-        ],
-        [
-            "0qlmdsd5t5w"
-        ],
-        [
-            "d50l16oyawf"
-        ],
-        [
-            "fiwaebo5c4w"
-        ],
-        [
-            "j6izicvvtam"
-        ],
-        [
-            "dh0f3m7bccb"
-        ],
-        [
-            "bnpblh2zsj"
-        ],
-        [
-            "sythgvmbwxn"
-        ],
-        [
-            "r46ll89xecm"
-        ],
-        [
-            "7zml2pk948f"
-        ],
-        [
-            "ord2dxcfp1"
-        ],
-        [
-            "guvlaf4pq0n"
-        ],
-        [
-            "0pacbcwqboap"
-        ],
-        [
-            "zrwo2xjv31i"
-        ],
-        [
-            "dv0wk34sdrs"
-        ],
-        [
-            "uhjsz1ncj4n"
-        ],
-        [
-            "547u7749vbb"
-        ],
-        [
-            "wc3ntj5zlfr"
-        ],
-        [
-            "2xdce1bkia9"
-        ],
-        [
-            "sg4gu5nnc4"
-        ],
-        [
-            "lexlclupmw"
-        ],
-        [
-            "1ma49e9svhd"
-        ],
-        [
-            "b95ginla55"
-        ],
-        [
-            "lyr5xfek0fj"
-        ],
-        [
-            "1zkck6ivbcu"
-        ],
-        [
-            "65188j3vytx"
-        ],
-        [
-            "v63bl635fde"
-        ],
-        [
-            "nm07cah47a"
-        ],
-        [
-            "be99pvn35u"
-        ],
-        [
-            "qip561q2jrk"
-        ],
-        [
-            "kg96i37owz"
-        ],
-        [
-            "vie7jd0cyq"
-        ],
-        [
-            "pskd2cwnbuq"
-        ],
-        [
-            "6okycyrvbb2"
-        ],
-        [
-            "3g49q7j0444"
-        ],
-        [
-            "z8lx4efxtz"
-        ],
-        [
-            "hwu0w81j5wp"
-        ],
-        [
-            "8qp4ckxuh89"
-        ],
-        [
-            "eqt8xpatq4"
-        ],
-        [
-            "hi64kjvudyj"
-        ],
-        [
-            "e3a4zupm3ls"
-        ],
-        [
-            "xatfxqifpu"
-        ],
-        [
-            "1gpoydtu0bo"
-        ],
-        [
-            "syzkeabzckc"
-        ],
-        [
-            "vwpujkss7l"
-        ],
-        [
-            "3lzo93y46t"
-        ],
-        [
-            "53g5q67358o"
-        ],
-        [
-            "zhp5llps9n"
-        ],
-        [
-            "iq80sxk5f2i"
-        ],
-        [
-            "xodzwf24xn7"
-        ],
-        [
-            "k42okuypox"
-        ],
-        [
-            "d3351s98b2k"
-        ],
-        [
-            "gcz71zqav15"
-        ],
-        [
-            "ah1rtk1xyw6"
-        ],
-        [
-            "kruqalnhyv9"
-        ],
-        [
-            "0jfrl0296huu"
-        ],
-        [
-            "lk4z3z1uny9"
-        ],
-        [
-            "liumtogt3m"
-        ],
-        [
-            "4cy0fnu5ljy"
-        ],
-        [
-            "omugk64jfk9"
-        ],
-        [
-            "4k7wyh3na7g"
-        ],
-        [
-            "h1nrzwqcf7p"
-        ],
-        [
-            "4p6fdxi3904"
-        ],
-        [
-            "9yl7zfnnrdo"
-        ],
-        [
-            "qee3sbf1frr"
-        ],
-        [
-            "63g6cc4bh42"
-        ],
-        [
-            "6ls04592r5"
-        ],
-        [
-            "kz8wa1o9n4j"
-        ],
-        [
-            "vg13edig07p"
-        ],
-        [
-            "mmkth3zl7ap"
-        ],
-        [
-            "8ygdlbf7ngr"
-        ],
-        [
-            "ljj6mfzi8c"
-        ],
-        [
-            "du9xhx5drmg"
-        ],
-        [
-            "zu2pcdhwu5b"
-        ],
-        [
-            "4lhbmvkjqn"
-        ],
-        [
-            "3ekfbcfhn5h"
-        ],
-        [
-            "dczmr9gr2f8"
-        ],
-        [
-            "akaehlb9wlp"
-        ],
-        [
-            "zbllx5p4p4"
-        ],
-        [
-            "rcdkdpkcp5q"
-        ],
-        [
-            "qgw76dgvmi9"
-        ],
-        [
-            "iafkna5a9c9"
-        ],
-        [
-            "vlwmhfbddtc"
-        ],
-        [
-            "5teykfrykm"
-        ],
-        [
-            "45hzak53ovw"
-        ],
-        [
-            "5na0cyhzjpk"
-        ],
-        [
-            "pkwhm2zvrh"
-        ],
-        [
-            "mmsrvslz5z"
-        ],
-        [
-            "lw9pjpt9lz"
-        ],
-        [
-            "ovbw1e8in8"
-        ],
-        [
-            "urozxqim5r9"
-        ],
-        [
-            "fzb6dalms3"
-        ],
-        [
-            "506gvpilhlm"
-        ],
-        [
-            "1klsm0bees4"
-        ],
-        [
-            "8dgn9rf4qvp"
-        ],
-        [
-            "o8q7tb4t9hd"
-        ],
-        [
-            "fhg9mziytk"
-        ],
-        [
-            "9hcqv8muq8q"
-        ],
-        [
-            "7vflq1kdlrt"
-        ],
-        [
-            "wluoyviewz"
-        ],
-        [
-            "2z4k56mzj2z"
-        ],
-        [
-            "j928ypxstvn"
-        ],
-        [
-            "lf6gnqk7guf"
-        ],
-        [
-            "zr6goyvg0vc"
-        ]
+    [
+      "9tfj9nz9g1",
+      "ifjhhzztizp"
+    ],
+    [
+      "1cjepo27nrvh",
+      "eyz60hivgw5",
+      "0wtw2glmsye"
+    ],
+    [
+      "h6oyz9dof95",
+      "0z6lbnylds8"
+    ],
+    [
+      "stlhtmb462h",
+      "gs71bfm9tht"
+    ],
+    [
+      "8mbj3xqstzt",
+      "s6nf8uaoens",
+      "j8cvqjpy1ne"
+    ],
+    [
+      "iy75jldes6n",
+      "a28v5veaie"
+    ],
+    [
+      "seunqn6bsxh",
+      "uoent88yc8"
+    ],
+    [
+      "4y682w3i5ea",
+      "v1tjzadrwmc"
+    ],
+    [
+      "5fqtp21dpw",
+      "ds3ha32i7"
+    ],
+    [
+      "xo60sgqchv",
+      "nxgynyj1uc"
+    ],
+    [
+      "em5y4yjwre",
+      "7nppeyr7exu"
+    ],
+    [
+      "mezdjud67s"
+    ],
+    [
+      "88vgnx79ujq",
+      "1mrnu8686q8"
+    ],
+    [
+      "czy93pxzp99",
+      "qv19q3hk0p",
+      "cgloojgjvuu"
+    ],
+    [
+      "w26jwjodbqh",
+      "fvyvmebwrgl",
+      "ms18wogv2f"
+    ],
+    [
+      "ajjowzrie6q",
+      "yjqs8mx6shs",
+      "fyoweki6ilu"
+    ],
+    [
+      "l9ic6jkeaya",
+      "dphogf084ic"
+    ],
+    [
+      "uej4cd81ku",
+      "lqqcki0x6"
+    ],
+    [
+      "z99za5xyhs",
+      "nvhlp3i4pxc",
+      "o4tl6c6ouq"
+    ],
+    [
+      "uw4csenzge",
+      "6rr5yb6sdi8"
+    ],
+    [
+      "9xi33u6uh4g",
+      "84w5sj5oykm"
+    ],
+    [
+      "kxgljf5kxl",
+      "ztgz4evbuk"
+    ],
+    [
+      "5qyhd92qmyj"
+    ],
+    [
+      "008pirb4q4eyr",
+      "yjqysnuw09"
+    ],
+    [
+      "n94uq67folj",
+      "lk4au06zoa",
+      "z0bw0ilq0nr"
+    ],
+    [
+      "498avqh5xva",
+      "alxtmld93yk"
+    ],
+    [
+      "x9cdjbacf7q",
+      "0h7ihe0dywv"
+    ],
+    [
+      "k0tol0v97yj",
+      "z8tadf0317"
+    ],
+    [
+      "u6ny4wmxyz"
+    ],
+    [
+      "yuxpy53sc5",
+      "wr7w207aag"
+    ],
+    [
+      "zrhw5ak1qm",
+      "0qc5wwpsi5ld"
+    ],
+    [
+      "blmlsgryv66",
+      "s7kjm2y546k"
+    ],
+    [
+      "oqbx2ao8qi9",
+      "02587sdd9khm"
+    ],
+    [
+      "ovw166vvv3j",
+      "83r2ywvt6so",
+      "sja399ywoqc"
+    ],
+    [
+      "fqaq3giervh",
+      "2qbag7k85gd"
+    ],
+    [
+      "oiy4smgzsk",
+      "akr3ckl5dy7"
+    ],
+    [
+      "irecq347bge",
+      "jayri8jxv9",
+      "apsvzl33w6s"
+    ],
+    [
+      "om0verb7w7o",
+      "jcp72hwp9dj"
+    ],
+    [
+      "jguaz46s9f",
+      "2fautqbuqr1"
+    ],
+    [
+      "qflblf50b09",
+      "0eizd6oxcayj"
+    ],
+    [
+      "k8e1jufzyh",
+      "7up5z3xn4ra"
+    ],
+    [
+      "kassnunexir",
+      "phiaynqw2b"
+    ],
+    [
+      "9ori9vudfev",
+      "q9zz1w69tbd"
+    ],
+    [
+      "thonbxzk3ai",
+      "qolmaz6uo9"
+    ],
+    [
+      "iyzyxxvcb0d",
+      "pj61vvujg2"
     ]
+  ]
 }

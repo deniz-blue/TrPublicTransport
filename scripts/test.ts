@@ -1,29 +1,15 @@
 import { readFileSync } from "fs";
-import { PublicTransportManifest } from "../src/types";
+import { ManifestLinesJSON, ManifestStationsJSON, PublicTransportStation } from "../src/types";
 
-import GetStations from "../GetStations.json";
+let linesManifest: ManifestLinesJSON = JSON.parse(readFileSync("./data/cities/istanbul/lines.json").toString());
+let stationsManifest: ManifestStationsJSON = JSON.parse(readFileSync("./data/cities/istanbul/stations2.json").toString());
 
-let manifest: PublicTransportManifest = JSON.parse(readFileSync("./data/manifest.json").toString());
+for (let line of linesManifest.lines) {
+    const stations = stationsManifest.stations.filter(x => x.lineId == line.id);
 
-let ist = manifest["İstanbul"];
+    console.log(`${line.code} has ${stations.length} stations:`)
 
-for(let { code } of ist.lines) {
-    let stats = GetStations.Data
-        .filter(x => x.LineName == code)
-        .sort((a, b) => a.Order - b.Order);
-
-    const getStationNameFormatted = (n: string) => {
-        if(n == "Boğaziçi Ü.-Hisarüstü") return "Boğaziçi Ü./Hisarüstü";
-        if(n == "İMES") return "İmes";
-        if(n == "MODOKO-KEYAP") return "Modoko-Keyap";
-        if(n == "MASKO") return "Masko";
-        if(n == "29 Ekim Cumhuriyet") return "29 Ekim - Cumhuriyet";
-        return n;
+    for (let station of stations) {
+        console.log("  - " + station.name + " / " + station.neighbours.map(id => stationsManifest.stations.find(x => x.id == id)?.name).join(","))
     }
-
-    // console.log(stats.filter(x => !ist.stations.find(s => s.name == getStationNameFormatted(x.Description))))
-
-    
-
-    console.log();
 }
